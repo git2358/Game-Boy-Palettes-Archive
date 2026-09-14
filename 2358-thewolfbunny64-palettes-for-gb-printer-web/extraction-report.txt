@@ -1,0 +1,902 @@
+Extracted 300 palettes.
+
+Game Boy Palette; Super Mushroom Vision by TheWolfBunny64_ 889340710.png
+  -> Super Mushroom Vision - TheWolfBunny64.json
+  -> #F7CEC3, #CC9E22, #923404, #000000
+Game Boy Palette; Value Orange by TheWolfBunny64_ 874519561.png
+  -> Value Orange - TheWolfBunny64.json
+  -> #E68E00, #AF6C00, #6C4200, #281900
+Game Boy Palette; Slime Blue by TheWolfBunny64_ 810574690.png
+  -> Slime Blue - TheWolfBunny64.json
+  -> #2F8CCC, #236B9C, #164160, #081824
+Game Boy Palette; Smurfy Blue by TheWolfBunny64_ 880631994.png
+  -> Smurfy Blue - TheWolfBunny64.json
+  -> #2CB9EF, #218DB6, #145770, #07202A
+Game Boy Palette; Pocket Ver. by TheWolfBunny64_ 808181843.png
+  -> Pocket Ver. - TheWolfBunny64.json
+  -> #C4CFA1, #8B956D, #4D533C, #1F1F1F
+Game Boy Palette; Microvision Ver. by TheWolfBunny64_ 808253572.png
+  -> Microvision Ver. - TheWolfBunny64.json
+  -> #A0A0A0, #787878, #505050, #303030
+Game Boy Palette; Shining Pearl Pink by TheWolfBunny64_ 889732307.png
+  -> Shining Pearl Pink - TheWolfBunny64.json
+  -> #D28EA0, #A06C7A, #62424B, #25191C
+Game Boy Palette; Susan G. Pink by TheWolfBunny64_ 881452792.png
+  -> Susan G. Pink - TheWolfBunny64.json
+  -> #EA77AF, #B25A85, #6E3852, #29151E
+Game Boy Palette; BANDAI NAMCO Ver. by TheWolfBunny64_ 808125048.png
+  -> BANDAI NAMCO Ver. - TheWolfBunny64.json
+  -> #FFBF00, #FF5C00, #E60000, #000000
+Game Boy Palette; Irish Green by TheWolfBunny64_ 845638234.png
+  -> Irish Green - TheWolfBunny64.json
+  -> #45BE76, #34915A, #205937, #0C2114
+Game Boy Palette; Olympic Bronze by TheWolfBunny64_ 874526492.png
+  -> Olympic Bronze - TheWolfBunny64.json
+  -> #CD8152, #9C623E, #603C26, #24160E
+Game Boy Palette; Labo Fawn by TheWolfBunny64_ 808263438.png
+  -> Labo Fawn - TheWolfBunny64.json
+  -> #D7AA73, #A48257, #655036, #251E14
+Game Boy Palette; Super Saiyan Blue by TheWolfBunny64_ 808031376.png
+  -> Super Saiyan Blue - TheWolfBunny64.json
+  -> #05BCCC, #038F9C, #025860, #002124
+Game Boy Palette; Super Saiyan Blue Evolved by TheWolfBunny64_ 810526930.png
+  -> Super Saiyan Blue Evolved - TheWolfBunny64.json
+  -> #1B97D1, #14739F, #0C4762, #041A24
+Game Boy Palette; Google Green by TheWolfBunny64_ 808309720.png
+  -> Google Green - TheWolfBunny64.json
+  -> #34A853, #27803F, #184F27, #091D0E
+Game Boy Palette; Ghostly Aoi by TheWolfBunny64_ 810574727.png
+  -> Ghostly Aoi - TheWolfBunny64.json
+  -> #84A2D4, #5A79BA, #19448E, #0F2350
+Game Boy Palette; Golden Trophy by TheWolfBunny64_ 883279365.png
+  -> Golden Trophy - TheWolfBunny64.json
+  -> #E8D018, #B19F12, #6D610B, #282404
+Game Boy Palette; (Joy-Con) Mario Red by TheWolfBunny64_ 807913468.png
+  -> (Joy-Con) Mario Red - TheWolfBunny64.json
+  -> #E10F00, #B40C00, #700700, #430400
+Game Boy Palette; Dream Land GB Ver. by TheWolfBunny64_ 882657464.png
+  -> Dream Land GB Ver. - TheWolfBunny64.json
+  -> #F6FF70, #B9D03A, #788B1D, #48530E
+Game Boy Palette; Survey Corps Brown by TheWolfBunny64_ 810574584.png
+  -> Survey Corps Brown - TheWolfBunny64.json
+  -> #AB7D57, #825F42, #503A28, #1E160F
+Game Boy Palette; Barbie Pink by TheWolfBunny64_ 881167114.png
+  -> Barbie Pink - TheWolfBunny64.json
+  -> #E94397, #B23373, #6D1F47, #290B1A
+Game Boy Palette; TOKYO SKYTREE CLOUDY BLUE by TheWolfBunny64_ 881469420.png
+  -> TOKYO SKYTREE CLOUDY BLUE - TheWolfBunny64.json
+  -> #82B5C7, #638A98, #3D555D, #161F23
+Game Boy Palette; Miku Blue by TheWolfBunny64_ 810574553.png
+  -> Miku Blue - TheWolfBunny64.json
+  -> #11ADD5, #0D84A2, #085164, #031E25
+Game Boy Palette; Island Green by TheWolfBunny64_ 810574597.png
+  -> Island Green - TheWolfBunny64.json
+  -> #009B7E, #007660, #00483B, #001B16
+Game Boy Palette; Golden Wild by TheWolfBunny64_ 807962743.png
+  -> Golden Wild - TheWolfBunny64.json
+  -> #B99F65, #947F50, #5C4F32, #372F1E
+Game Boy Palette; Yellow Banana by TheWolfBunny64_ 810517047.png
+  -> Yellow Banana - TheWolfBunny64.json
+  -> #FFDF08, #DE9E00, #AD6939, #734900
+Game Boy Palette; Tokyo Midtown Ver. by TheWolfBunny64_ 808272072.png
+  -> Tokyo Midtown Ver. - TheWolfBunny64.json
+  -> #8FAD15, #4B8C2B, #44693D, #000000
+Game Boy Palette; Shenron Green by TheWolfBunny64_ 880662053.png
+  -> Shenron Green - TheWolfBunny64.json
+  -> #5AC34A, #449538, #2A5B22, #0F220D
+Game Boy Palette; Scarlett Green by TheWolfBunny64_ 877516789.png
+  -> Scarlett Green - TheWolfBunny64.json
+  -> #9BF00B, #76B708, #487005, #1B2A01
+Game Boy Palette; Pac-Man Yellow by TheWolfBunny64_ 845637251.png
+  -> Pac-Man Yellow - TheWolfBunny64.json
+  -> #FFE300, #C3AD00, #786A00, #2D2800
+Game Boy Palette; Pepsi Vision by TheWolfBunny64_ 861894560.png
+  -> Pepsi Vision - TheWolfBunny64.json
+  -> #FFFFFF, #FF1400, #1414C8, #000000
+Game Boy Palette; Bubblun Green by TheWolfBunny64_ 864194151.png
+  -> Bubblun Green - TheWolfBunny64.json
+  -> #6ADC31, #51A825, #316717, #122608
+Game Boy Palette; Game Awards Cyan by TheWolfBunny64_ 810534004.png
+  -> Game Awards Cyan - TheWolfBunny64.json
+  -> #49E8D9, #37B1A5, #226D66, #0C2826
+Game Boy Palette; BLACKPINK BLINK PINK by TheWolfBunny64_ 956890357.png
+  -> BLACKPINK BLINK PINK - TheWolfBunny64.json
+  -> #F4A7BA, #BA7F8E, #724E57, #2B1D20
+Game Boy Palette; A-RISE BLUE by TheWolfBunny64_ 963718101.png
+  -> A-RISE BLUE - TheWolfBunny64.json
+  -> #30559C, #244177, #162849, #080F1B
+Game Boy Palette; Berserk Blood by TheWolfBunny64_ 880736165.png
+  -> Berserk Blood - TheWolfBunny64.json
+  -> #BB1414, #8F0F0F, #570909, #200303
+Game Boy Palette; 765 Production Ver. by TheWolfBunny64_ 807977771.png
+  -> 765 Production Ver. - TheWolfBunny64.json
+  -> #BBC4E4, #959CB6, #5D6272, #383A44
+Game Boy Palette; Sky Pop Ivory by TheWolfBunny64_ 889341569.png
+  -> Sky Pop Ivory - TheWolfBunny64.json
+  -> #E5E0B8, #BEBB95, #86825C, #525025
+Game Boy Palette; Super Famicom Supreme by TheWolfBunny64_ 934519944.png
+  -> Super Famicom Supreme - TheWolfBunny64.json
+  -> #FEDA5A, #44AC71, #D94040, #0846BA
+Game Boy Palette; Yo-kai Green by TheWolfBunny64_ 810569174.png
+  -> Yo-kai Green - TheWolfBunny64.json
+  -> #66B83C, #4E8C2D, #30561C, #11200A
+Game Boy Palette; Famicom Frenzy by TheWolfBunny64_ 882302562.png
+  -> Famicom Frenzy - TheWolfBunny64.json
+  -> #EFECDA, #D9BE72, #A32135, #231916
+Game Boy Palette; GameKing Ver. by TheWolfBunny64_ 808657288.png
+  -> GameKing Ver. - TheWolfBunny64.json
+  -> #8CCE94, #6B9C63, #506541, #184221
+Game Boy Palette; niconico sea green by TheWolfBunny64_ 881466403.png
+  -> niconico sea green - TheWolfBunny64.json
+  -> #19C3A4, #13957D, #0B5B4D, #04221C
+Game Boy Palette; Anime Expo Ver. by TheWolfBunny64_ 807895892.png
+  -> Anime Expo Ver. - TheWolfBunny64.json
+  -> #E5EAEB, #9BA3A6, #656E72, #242A2D
+Game Boy Palette; Spider-Verse Red by TheWolfBunny64_ 970113349.png
+  -> Spider-Verse Red - TheWolfBunny64.json
+  -> #D4134C, #A20E3A, #630823, #25030D
+Game Boy Palette; Neon Yellow by TheWolfBunny64_ 807910978.png
+  -> Neon Yellow - TheWolfBunny64.json
+  -> #E6FF00, #B8CC00, #737F00, #454C00
+Game Boy Palette; DMG-GOLD by TheWolfBunny64_ 882301822.png
+  -> DMG-GOLD - TheWolfBunny64.json
+  -> #A1B560, #7B8A49, #4B552D, #1C1F10
+Game Boy Palette; Sailor Spinach Green by TheWolfBunny64_ 880661200.png
+  -> Sailor Spinach Green - TheWolfBunny64.json
+  -> #7BB03C, #5E862D, #39521C, #151F0A
+Game Boy Palette; DMG-SWITCH by TheWolfBunny64_ 956892316.png
+  -> DMG-SWITCH - TheWolfBunny64.json
+  -> #8CAD28, #6C9421, #426B29, #214231
+Game Boy Palette; Pikachu Yellow by TheWolfBunny64_ 808246300.png
+  -> Pikachu Yellow - TheWolfBunny64.json
+  -> #FFDC00, #C3A800, #786700, #2D2600
+Game Boy Palette; COLLECTION of SaGa Ver. by TheWolfBunny64_ 882675282.png
+  -> COLLECTION of SaGa Ver. - TheWolfBunny64.json
+  -> #B2C0A8, #769A67, #345D51, #041820
+Game Boy Palette; Christmas Gold by TheWolfBunny64_ 861894292.png
+  -> Christmas Gold - TheWolfBunny64.json
+  -> #C0A94B, #928139, #5A4F23, #211D0D
+Game Boy Palette; DK Arcade Blue by TheWolfBunny64_ 882303039.png
+  -> DK Arcade Blue - TheWolfBunny64.json
+  -> #47A2DE, #367BA9, #214C68, #0C1C27
+Game Boy Palette; Chozo Blue by TheWolfBunny64_ 889906512.png
+  -> Chozo Blue - TheWolfBunny64.json
+  -> #4EB3E1, #3B88AC, #245469, #0D1F27
+Game Boy Palette; Wisteria Murasaki by TheWolfBunny64_ 810572681.png
+  -> Wisteria Murasaki - TheWolfBunny64.json
+  -> #DBD0E6, #A59ACA, #7058A3, #2E2930
+Game Boy Palette; Puyo Puyo Green by TheWolfBunny64_ 881451671.png
+  -> Puyo Puyo Green - TheWolfBunny64.json
+  -> #48E236, #37AC29, #216A19, #0C2709
+Game Boy Palette; Love Live Bright Pink! by TheWolfBunny64_ 807967550.png
+  -> Love Live Bright Pink! - TheWolfBunny64.json
+  -> #F34F6C, #C23F56, #792736, #481720
+Game Boy Palette; Royal Blue by TheWolfBunny64_ 817659365.png
+  -> Royal Blue - TheWolfBunny64.json
+  -> #4655F5, #3540BB, #202773, #0C0E2B
+Game Boy Palette; SEIKO Timer Yellow by TheWolfBunny64_ 881446121.png
+  -> SEIKO Timer Yellow - TheWolfBunny64.json
+  -> #FCC800, #C09800, #765E00, #2C2300
+Game Boy Palette; Chaos Emerald Green by TheWolfBunny64_ 882653506.png
+  -> Chaos Emerald Green - TheWolfBunny64.json
+  -> #6CD800, #52A500, #326500, #132600
+Game Boy Palette; Light Ver. by TheWolfBunny64_ 808182168.png
+  -> Light Ver. - TheWolfBunny64.json
+  -> #00B581, #009A71, #00694A, #004F3B
+Game Boy Palette; Ancient Hisuian Brown by TheWolfBunny64_ 889341096.png
+  -> Ancient Hisuian Brown - TheWolfBunny64.json
+  -> #B39F90, #88796E, #544A43, #1F1C19
+Game Boy Palette; 765PRO TRICOLOR by TheWolfBunny64_ 934828680.png
+  -> 765PRO TRICOLOR - TheWolfBunny64.json
+  -> #B4E04B, #E22B30, #2743D2, #0B143F
+Game Boy Palette; PAC-PALETTE by TheWolfBunny64_ 934121158.png
+  -> PAC-PALETTE - TheWolfBunny64.json
+  -> #FFD800, #FF8C00, #DC0000, #420000
+Game Boy Palette; Garfield Vision by TheWolfBunny64_ 969153251.png
+  -> Garfield Vision - TheWolfBunny64.json
+  -> #F5EA8B, #E59436, #964220, #2D1309
+Game Boy Palette; Champion's Tunic by TheWolfBunny64_ 881458467.png
+  -> Champion's Tunic - TheWolfBunny64.json
+  -> #E2DCB1, #009EDD, #875B40, #281B13
+Game Boy Palette; Wonder Purple by TheWolfBunny64_ 970115157.png
+  -> Wonder Purple - TheWolfBunny64.json
+  -> #E658DF, #B846B2, #732C6F, #451A42
+Game Boy Palette; Wrestling Red by TheWolfBunny64_ 875957923.png
+  -> Wrestling Red - TheWolfBunny64.json
+  -> #D7182A, #A41220, #650B13, #250407
+Game Boy Palette; SHINY Sky Blue by TheWolfBunny64_ 810562652.png
+  -> SHINY Sky Blue - TheWolfBunny64.json
+  -> #8DBBFF, #6B8EC3, #425878, #18212D
+Game Boy Palette; PINK109 by TheWolfBunny64_ 881446665.png
+  -> PINK109 - TheWolfBunny64.json
+  -> #FD87B2, #C16788, #773F53, #2C171F
+Game Boy Palette; Nijigasaki Yellow by TheWolfBunny64_ 808002454.png
+  -> Nijigasaki Yellow - TheWolfBunny64.json
+  -> #FAB920, #BF8D18, #75570F, #2C2005
+Game Boy Palette; Teyvat Brown by TheWolfBunny64_ 889867744.png
+  -> Teyvat Brown - TheWolfBunny64.json
+  -> #B89469, #8C7150, #564531, #201A12
+Game Boy Palette; NHK Silver Gray by TheWolfBunny64_ 889918325.png
+  -> NHK Silver Gray - TheWolfBunny64.json
+  -> #808080, #616161, #3C3C3C, #161616
+Game Boy Palette; Walmart Discount Blue by TheWolfBunny64_ 808304574.png
+  -> Walmart Discount Blue - TheWolfBunny64.json
+  -> #0071DC, #0056A8, #003567, #001326
+Game Boy Palette; Miraitowa Blue by TheWolfBunny64_ 808234535.png
+  -> Miraitowa Blue - TheWolfBunny64.json
+  -> #25BDEF, #1C90B6, #115870, #06212A
+Game Boy Palette; RADIANT SMILE RAMP by TheWolfBunny64_ 963554026.png
+  -> RADIANT SMILE RAMP - TheWolfBunny64.json
+  -> #FFF89B, #01B3C4, #E6016B, #1B1C81
+Game Boy Palette; Pretty Guardian Gold by TheWolfBunny64_ 808933597.png
+  -> Pretty Guardian Gold - TheWolfBunny64.json
+  -> #B4AA82, #898263, #54503D, #1F1E16
+Game Boy Palette; Spotify Green by TheWolfBunny64_ 889906803.png
+  -> Spotify Green - TheWolfBunny64.json
+  -> #1ED760, #16A449, #0E652D, #052510
+Game Boy Palette; Yoshi Egg Green by TheWolfBunny64_ 875968941.png
+  -> Yoshi Egg Green - TheWolfBunny64.json
+  -> #66C430, #4E9524, #305C16, #112208
+Game Boy Palette; Devil Red by TheWolfBunny64_ 883276425.png
+  -> Devil Red - TheWolfBunny64.json
+  -> #D0011B, #9F0014, #61000C, #240004
+Game Boy Palette; LCD Clock Green by TheWolfBunny64_ 882302170.png
+  -> LCD Clock Green - TheWolfBunny64.json
+  -> #50B580, #3D8A61, #25553C, #0E1F16
+Game Boy Palette; BANGTAN ARMY PURPLE by TheWolfBunny64_ 970112316.png
+  -> BANGTAN ARMY PURPLE - TheWolfBunny64.json
+  -> #8048D8, #6137A5, #3C2165, #160C26
+Game Boy Palette; Wanda Pink by TheWolfBunny64_ 808137157.png
+  -> Wanda Pink - TheWolfBunny64.json
+  -> #D84C9F, #A53A79, #65234A, #260D1C
+Game Boy Palette; Grand Ivory by TheWolfBunny64_ 881455013.png
+  -> Grand Ivory - TheWolfBunny64.json
+  -> #D9D6BE, #A5A391, #666459, #262521
+Game Boy Palette; Do The Dew Ver. by TheWolfBunny64_ 808658134.png
+  -> Do The Dew Ver. - TheWolfBunny64.json
+  -> #FFFFFF, #A1D23F, #D82A34, #29673C
+Game Boy Palette; Ebott Prolouge by TheWolfBunny64_ 931484556.png
+  -> Ebott Prolouge - TheWolfBunny64.json
+  -> #C08226, #854A1D, #4A290B, #2C1708
+Game Boy Palette; 7-Eleven Color Combo by TheWolfBunny64_ 934082025.png
+  -> 7-Eleven Color Combo - TheWolfBunny64.json
+  -> #FF6C00, #EB0F2A, #147350, #062218
+Game Boy Palette; Bubbles Blue by TheWolfBunny64_ 808845869.png
+  -> Bubbles Blue - TheWolfBunny64.json
+  -> #88D0F0, #679FB7, #406170, #18242A
+Game Boy Palette; Bikini Bottom Ver. by TheWolfBunny64_ 808843802.png
+  -> Bikini Bottom Ver. - TheWolfBunny64.json
+  -> #F8F880, #48F8E0, #2098F0, #606000
+Game Boy Palette; Super Star Pink by TheWolfBunny64_ 880737134.png
+  -> Super Star Pink - TheWolfBunny64.json
+  -> #F3A5AA, #B97E82, #724D4F, #2A1D1D
+Game Boy Palette; Google Red by TheWolfBunny64_ 808308848.png
+  -> Google Red - TheWolfBunny64.json
+  -> #EA4335, #B23328, #6E1F18, #290B09
+Game Boy Palette; Super Saiyan 3 by TheWolfBunny64_ 810523435.png
+  -> Super Saiyan 3 - TheWolfBunny64.json
+  -> #F8C838, #BD982A, #745E1A, #2B2309
+Game Boy Palette; Demon's Gold by TheWolfBunny64_ 881456777.png
+  -> Demon's Gold - TheWolfBunny64.json
+  -> #BAAF56, #8E8541, #575228, #201E0F
+Game Boy Palette; Camouflage Ver. by TheWolfBunny64_ 810501137.png
+  -> Camouflage Ver. - TheWolfBunny64.json
+  -> #BCAB90, #AC7E54, #79533D, #373538
+Game Boy Palette; Pokemon mini Ver. by TheWolfBunny64_ 808171869.png
+  -> Pokemon mini Ver. - TheWolfBunny64.json
+  -> #A5BEA5, #7E917E, #4D594D, #1D211D
+Game Boy Palette; Kakarot Orange by TheWolfBunny64_ 861434630.png
+  -> Kakarot Orange - TheWolfBunny64.json
+  -> #E7612C, #B04A21, #6C2D14, #281107
+Game Boy Palette; Pokemon Pinball Ver. by TheWolfBunny64_ 882658817.png
+  -> Pokemon Pinball Ver. - TheWolfBunny64.json
+  -> #E8F8B8, #A0B050, #786030, #181820
+Game Boy Palette; Super Saiyan Rose by TheWolfBunny64_ 810504150.png
+  -> Super Saiyan Rose - TheWolfBunny64.json
+  -> #F7AFB3, #BC8588, #745254, #2B1E1F
+Game Boy Palette; Super Saiyan God by TheWolfBunny64_ 808029727.png
+  -> Super Saiyan God - TheWolfBunny64.json
+  -> #D70362, #A4024A, #65012E, #250011
+Game Boy Palette; Neon Blue by TheWolfBunny64_ 807910649.png
+  -> Neon Blue - TheWolfBunny64.json
+  -> #0AB9E6, #0894B8, #055C73, #033745
+Game Boy Palette; GameCube Glimmer by TheWolfBunny64_ 937380203.png
+  -> GameCube Glimmer - TheWolfBunny64.json
+  -> #B6BED3, #11A396, #CF4151, #3E1318
+Game Boy Palette; Gold, Silver, and Bronze by TheWolfBunny64_ 934161155.png
+  -> Gold, Silver, and Bronze - TheWolfBunny64.json
+  -> #BEB049, #86949A, #996843, #2D1F14
+Game Boy Palette; Oni Aka by TheWolfBunny64_ 810573032.png
+  -> Oni Aka - TheWolfBunny64.json
+  -> #EC6D71, #D9333F, #A22041, #640125
+Game Boy Palette; Saint Snow Red by TheWolfBunny64_ 810514185.png
+  -> Saint Snow Red - TheWolfBunny64.json
+  -> #BF3936, #922B29, #591A19, #210A09
+Game Boy Palette; Dew Green by TheWolfBunny64_ 808487710.png
+  -> Dew Green - TheWolfBunny64.json
+  -> #97D700, #73A400, #476500, #1A2500
+Game Boy Palette; DK Barrel Brown by TheWolfBunny64_ 881460193.png
+  -> DK Barrel Brown - TheWolfBunny64.json
+  -> #C3742F, #955823, #5B3616, #221408
+Game Boy Palette; Cardcaptor Pink by TheWolfBunny64_ 808927487.png
+  -> Cardcaptor Pink - TheWolfBunny64.json
+  -> #F2F4F7, #EAC3D6, #E10E82, #430427
+Game Boy Palette; Autobot Red by TheWolfBunny64_ 881465485.png
+  -> Autobot Red - TheWolfBunny64.json
+  -> #C31F3C, #95172D, #5B0E1C, #22050A
+Game Boy Palette; Inkling Tricolor by TheWolfBunny64_ 934077941.png
+  -> Inkling Tricolor - TheWolfBunny64.json
+  -> #EAFF3D, #FF505E, #603BFF, #1C114C
+Game Boy Palette; Nintendo Switch Lite Ver. by TheWolfBunny64_ 808044196.png
+  -> Nintendo Switch Lite Ver. - TheWolfBunny64.json
+  -> #EFBE2D, #00B2B3, #646464, #3C3C3C
+Game Boy Palette; UTA RED by TheWolfBunny64_ 933460950.png
+  -> UTA RED - TheWolfBunny64.json
+  -> #E24465, #AC344D, #6A202F, #270B11
+Game Boy Palette; Neon Green by TheWolfBunny64_ 807911390.png
+  -> Neon Green - TheWolfBunny64.json
+  -> #1EDC00, #18B000, #0F6E00, #094200
+Game Boy Palette; Sakura Pink by TheWolfBunny64_ 810572503.png
+  -> Sakura Pink - TheWolfBunny64.json
+  -> #FDEFF2, #EEBBCB, #E7609E, #A25768
+Game Boy Palette; EVA-01 by TheWolfBunny64_ 881460739.png
+  -> EVA-01 - TheWolfBunny64.json
+  -> #54CF54, #F99B22, #765898, #303345
+Game Boy Palette; Brilliant Diamond Blue by TheWolfBunny64_ 889731643.png
+  -> Brilliant Diamond Blue - TheWolfBunny64.json
+  -> #7FBBE1, #618FAC, #3B5869, #162127
+Game Boy Palette; Patrick Star Pink by TheWolfBunny64_ 807899954.png
+  -> Patrick Star Pink - TheWolfBunny64.json
+  -> #FF808B, #CC666F, #7F4045, #4C2629
+Game Boy Palette; Digivice Ver. by TheWolfBunny64_ 808837015.png
+  -> Digivice Ver. - TheWolfBunny64.json
+  -> #8C8C73, #6B6B57, #414136, #181814
+Game Boy Palette; 765PRO Pink by TheWolfBunny64_ 810551735.png
+  -> 765PRO Pink - TheWolfBunny64.json
+  -> #F34F6D, #B93C53, #722533, #2A0D13
+Game Boy Palette; Metallic Paldea Brass by TheWolfBunny64_ 933472566.png
+  -> Metallic Paldea Brass - TheWolfBunny64.json
+  -> #A29834, #7B7427, #4C4718, #1C1A09
+Game Boy Palette; Classic Blurple by TheWolfBunny64_ 807973553.png
+  -> Classic Blurple - TheWolfBunny64.json
+  -> #7289DA, #5B6DAE, #38446D, #222941
+Game Boy Palette; Pizza Hut Red by TheWolfBunny64_ 881453407.png
+  -> Pizza Hut Red - TheWolfBunny64.json
+  -> #E3383E, #AD2A2F, #6A1A1D, #28090A
+Game Boy Palette; Giga Kiwi DMG by TheWolfBunny64_ 882679084.png
+  -> Giga Kiwi DMG - TheWolfBunny64.json
+  -> #D0E040, #A0A830, #607028, #384828
+Game Boy Palette; DMG Pea Green by TheWolfBunny64_ 882680245.png
+  -> DMG Pea Green - TheWolfBunny64.json
+  -> #D7E894, #AEC440, #527F39, #204631
+Game Boy Palette; SAITAMA SUPER BLUE by TheWolfBunny64_ 887073773.png
+  -> SAITAMA SUPER BLUE - TheWolfBunny64.json
+  -> #277ABC, #1D5D8F, #123958, #061521
+Game Boy Palette; TI-83 Ver. by TheWolfBunny64_ 808254720.png
+  -> TI-83 Ver. - TheWolfBunny64.json
+  -> #9CAA8C, #77826B, #495041, #1B1D18
+Game Boy Palette; Hokage Orange by TheWolfBunny64_ 810534793.png
+  -> Hokage Orange - TheWolfBunny64.json
+  -> #EA8352, #B2643E, #6E3D26, #29170E
+Game Boy Palette; Pac-Man Vision by TheWolfBunny64_ 922541341.png
+  -> Pac-Man Vision - TheWolfBunny64.json
+  -> #FFFF00, #FFB897, #3732FF, #000000
+Game Boy Palette; CINDERELLA Blue by TheWolfBunny64_ 810554711.png
+  -> CINDERELLA Blue - TheWolfBunny64.json
+  -> #2681C8, #1D6298, #113C5E, #061623
+Game Boy Palette; Google Yellow by TheWolfBunny64_ 808309498.png
+  -> Google Yellow - TheWolfBunny64.json
+  -> #FBBC05, #BF8F03, #765802, #2C2100
+Game Boy Palette; Liella Purple! by TheWolfBunny64_ 874519946.png
+  -> Liella Purple! - TheWolfBunny64.json
+  -> #A5469B, #7E3576, #4D2048, #1D0C1B
+Game Boy Palette; Fury Blue by TheWolfBunny64_ 881449232.png
+  -> Fury Blue - TheWolfBunny64.json
+  -> #2B5F98, #204874, #142C47, #07101A
+Game Boy Palette; Yo-kai Purple by TheWolfBunny64_ 810570439.png
+  -> Yo-kai Purple - TheWolfBunny64.json
+  -> #938AC1, #706993, #45405A, #191822
+Game Boy Palette; Pocket Tales Ver. by TheWolfBunny64_ 810528215.png
+  -> Pocket Tales Ver. - TheWolfBunny64.json
+  -> #D0D860, #88A000, #385000, #000000
+Game Boy Palette; Game Master Ver. by TheWolfBunny64_ 808288634.png
+  -> Game Master Ver. - TheWolfBunny64.json
+  -> #829FA6, #63797E, #3D4A4E, #161C1D
+Game Boy Palette; Famicom Disk Yellow by TheWolfBunny64_ 881169045.png
+  -> Famicom Disk Yellow - TheWolfBunny64.json
+  -> #F3C200, #B99400, #725B00, #2A2200
+Game Boy Palette; Olympic Silver by TheWolfBunny64_ 874525259.png
+  -> Olympic Silver - TheWolfBunny64.json
+  -> #9EA59C, #787E77, #4A4D49, #1B1D1B
+Game Boy Palette; Lemon-Lime Green by TheWolfBunny64_ 808856335.png
+  -> Lemon-Lime Green - TheWolfBunny64.json
+  -> #F1C545, #51A631, #336632, #142813
+Game Boy Palette; Sprite Green by TheWolfBunny64_ 877361015.png
+  -> Sprite Green - TheWolfBunny64.json
+  -> #009B4E, #00763B, #004824, #001B0D
+Game Boy Palette; Green Awakening by TheWolfBunny64_ 883049033.png
+  -> Green Awakening - TheWolfBunny64.json
+  -> #F1FFDD, #98DB75, #367058, #000B16
+Game Boy Palette; Tokyo Red by TheWolfBunny64_ 817661789.png
+  -> Tokyo Red - TheWolfBunny64.json
+  -> #B11D33, #871626, #530D17, #1F0508
+Game Boy Palette; Sword Art Cyan by TheWolfBunny64_ 810537037.png
+  -> Sword Art Cyan - TheWolfBunny64.json
+  -> #59C3E2, #4495AC, #295B6A, #0F2227
+Game Boy Palette; MILLION LIVE GOLD! by TheWolfBunny64_ 808266527.png
+  -> MILLION LIVE GOLD! - TheWolfBunny64.json
+  -> #CDB261, #9C884A, #60532D, #241F11
+Game Boy Palette; Gamebuino Classic Ver. by TheWolfBunny64_ 881166806.png
+  -> Gamebuino Classic Ver. - TheWolfBunny64.json
+  -> #81A17E, #627B60, #3C4B3B, #161C16
+Game Boy Palette; LAWSON BLUE by TheWolfBunny64_ 889435801.png
+  -> LAWSON BLUE - TheWolfBunny64.json
+  -> #0068B7, #004F8B, #003056, #001220
+Game Boy Palette; Odyssey Boy by TheWolfBunny64_ 969044947.png
+  -> Odyssey Boy - TheWolfBunny64.json
+  -> #ACBE8C, #7E8E67, #505445, #222421
+Game Boy Palette; ANA Sky Blue by TheWolfBunny64_ 875667097.png
+  -> ANA Sky Blue - TheWolfBunny64.json
+  -> #00B3F0, #0088B7, #005470, #001F2A
+Game Boy Palette; Clover Green by TheWolfBunny64_ 881168428.png
+  -> Clover Green - TheWolfBunny64.json
+  -> #39B54A, #2B8A38, #1A5522, #0A1F0D
+Game Boy Palette; Frog Coin Green by TheWolfBunny64_ 969052515.png
+  -> Frog Coin Green - TheWolfBunny64.json
+  -> #FFF7DE, #00EF00, #398400, #003900
+Game Boy Palette; Garry's Blue by TheWolfBunny64_ 882654469.png
+  -> Garry's Blue - TheWolfBunny64.json
+  -> #0082FF, #0063C3, #003D78, #00162D
+Game Boy Palette; TROPICAL TWICE APRICOT by TheWolfBunny64_ 963754404.png
+  -> TROPICAL TWICE APRICOT - TheWolfBunny64.json
+  -> #FCC89B, #FF5FA2, #96375F, #3C1626
+Game Boy Palette; Kentucky Fried Red by TheWolfBunny64_ 902975935.png
+  -> Kentucky Fried Red - TheWolfBunny64.json
+  -> #AB182F, #821223, #500B16, #1E0408
+Game Boy Palette; Cosmo Green by TheWolfBunny64_ 808135021.png
+  -> Cosmo Green - TheWolfBunny64.json
+  -> #4EBD59, #3B9044, #245829, #0D210F
+Game Boy Palette; Poketch Ver. by TheWolfBunny64_ 882660430.png
+  -> Poketch Ver. - TheWolfBunny64.json
+  -> #70B070, #508050, #385030, #102818
+Game Boy Palette; Classy Christmas by TheWolfBunny64_ 934039521.png
+  -> Classy Christmas - TheWolfBunny64.json
+  -> #E8E7DF, #8BAB95, #9E5C5E, #534D57
+Game Boy Palette; Super Saiyan by TheWolfBunny64_ 810507425.png
+  -> Super Saiyan - TheWolfBunny64.json
+  -> #FEFCC1, #C2C093, #77765A, #2C2C22
+Game Boy Palette; Disney Dream Blue by TheWolfBunny64_ 877293506.png
+  -> Disney Dream Blue - TheWolfBunny64.json
+  -> #1786EB, #1166B3, #0A3F6E, #041729
+Game Boy Palette; Green Banana by TheWolfBunny64_ 810518776.png
+  -> Green Banana - TheWolfBunny64.json
+  -> #63DF08, #4A9E00, #396939, #214900
+Game Boy Palette; Golden Kiiro by TheWolfBunny64_ 810573647.png
+  -> Golden Kiiro - TheWolfBunny64.json
+  -> #F8E58C, #DCCB18, #A69425, #6A5D21
+Game Boy Palette; Domino's Blue by TheWolfBunny64_ 904978511.png
+  -> Domino's Blue - TheWolfBunny64.json
+  -> #007BAD, #005E84, #003951, #00151E
+Game Boy Palette; Anime Expo Red by TheWolfBunny64_ 889436714.png
+  -> Anime Expo Red - TheWolfBunny64.json
+  -> #EE3B33, #B62D27, #701B18, #2A0A09
+Game Boy Palette; Crash Orange by TheWolfBunny64_ 881168755.png
+  -> Crash Orange - TheWolfBunny64.json
+  -> #F37C30, #B95E24, #723A16, #2A1508
+Game Boy Palette; Tiger Game.com Ver. by TheWolfBunny64_ 808053032.png
+  -> Tiger Game.com Ver. - TheWolfBunny64.json
+  -> #A7BF6B, #6F8F4F, #0F4F2F, #000000
+Game Boy Palette; Yo-kai Blue by TheWolfBunny64_ 810569951.png
+  -> Yo-kai Blue - TheWolfBunny64.json
+  -> #33B6EA, #278BB2, #18556E, #092029
+Game Boy Palette; Colorful Horizons by TheWolfBunny64_ 956889812.png
+  -> Colorful Horizons - TheWolfBunny64.json
+  -> #F6CF72, #60BDC7, #D15252, #373939
+Game Boy Palette; Simpson Yellow by TheWolfBunny64_ 883276866.png
+  -> Simpson Yellow - TheWolfBunny64.json
+  -> #FDD621, #C1A319, #77640F, #2C2505
+Game Boy Palette; Moonlight Vision by TheWolfBunny64_ 817661337.png
+  -> Moonlight Vision - TheWolfBunny64.json
+  -> #F8D868, #3890E8, #305078, #101010
+Game Boy Palette; Yo-kai Pink by TheWolfBunny64_ 810567626.png
+  -> Yo-kai Pink - TheWolfBunny64.json
+  -> #E08AB8, #AB698C, #694056, #271820
+Game Boy Palette; Neon Orange by TheWolfBunny64_ 817660194.png
+  -> Neon Orange - TheWolfBunny64.json
+  -> #FAA005, #BF7A03, #754B02, #2C1C00
+Game Boy Palette; SAITAMA SUPER GREEN by TheWolfBunny64_ 887074051.png
+  -> SAITAMA SUPER GREEN - TheWolfBunny64.json
+  -> #16AE85, #108565, #0A513E, #031E17
+Game Boy Palette; Cola-Cola Red by TheWolfBunny64_ 808488517.png
+  -> Cola-Cola Red - TheWolfBunny64.json
+  -> #F40009, #BA0006, #720004, #2B0001
+Game Boy Palette; Fool's Gold and Silver by TheWolfBunny64_ 933315457.png
+  -> Fool's Gold and Silver - TheWolfBunny64.json
+  -> #C5C66D, #97A1B0, #585E67, #232529
+Game Boy Palette; Odyssey Gold by TheWolfBunny64_ 808022303.png
+  -> Odyssey Gold - TheWolfBunny64.json
+  -> #C2A000, #947A00, #5B4B00, #221C00
+Game Boy Palette; Travel Wood by TheWolfBunny64_ 808144066.png
+  -> Travel Wood - TheWolfBunny64.json
+  -> #F8D8B0, #A08058, #705030, #482810
+Game Boy Palette; Neon Red by TheWolfBunny64_ 807910019.png
+  -> Neon Red - TheWolfBunny64.json
+  -> #FF3C28, #CC3020, #7F1E14, #4C120C
+Game Boy Palette; PocketStation Ver. by TheWolfBunny64_ 879517372.png
+  -> PocketStation Ver. - TheWolfBunny64.json
+  -> #969687, #727267, #46463F, #1A1A17
+Game Boy Palette; Leprechaun Green by TheWolfBunny64_ 883281858.png
+  -> Leprechaun Green - TheWolfBunny64.json
+  -> #378661, #2A664A, #193F2D, #091711
+Game Boy Palette; Aquatic Iro by TheWolfBunny64_ 810571964.png
+  -> Aquatic Iro - TheWolfBunny64.json
+  -> #A0D8EF, #2CA9E1, #3E62AD, #192F60
+Game Boy Palette; School Idol Mix by TheWolfBunny64_ 883047563.png
+  -> School Idol Mix - TheWolfBunny64.json
+  -> #F39800, #00A0E9, #A5469B, #31152E
+Game Boy Palette; Vulnerable Blue by TheWolfBunny64_ 934125535.png
+  -> Vulnerable Blue - TheWolfBunny64.json
+  -> #3732FF, #785647, #C38C73, #FFB897
+Game Boy Palette; Pokedex Red by TheWolfBunny64_ 875979818.png
+  -> Pokedex Red - TheWolfBunny64.json
+  -> #EA5450, #B2403D, #6E2725, #290E0E
+Game Boy Palette; Absorbent and Yellow by TheWolfBunny64_ 934827615.png
+  -> Absorbent and Yellow - TheWolfBunny64.json
+  -> #FFF752, #AEC600, #667400, #282E00
+Game Boy Palette; NASCAR Ver. by TheWolfBunny64_ 808848667.png
+  -> NASCAR Ver. - TheWolfBunny64.json
+  -> #FFD659, #E4002B, #007AC2, #000000
+Game Boy Palette; Stone Orange by TheWolfBunny64_ 810546087.png
+  -> Stone Orange - TheWolfBunny64.json
+  -> #F6821E, #BC6316, #733D0E, #2B1605
+Game Boy Palette; Someity Pink by TheWolfBunny64_ 808235786.png
+  -> Someity Pink - TheWolfBunny64.json
+  -> #E50A84, #AF0764, #6B043E, #280117
+Game Boy Palette; Paris Gold by TheWolfBunny64_ 817662260.png
+  -> Paris Gold - TheWolfBunny64.json
+  -> #D7C378, #A4955B, #655B38, #252215
+Game Boy Palette; Ultra Black by TheWolfBunny64_ 882304425.png
+  -> Ultra Black - TheWolfBunny64.json
+  -> #4D5263, #3A3E4B, #24262E, #0D0E11
+Game Boy Palette; Hogwarts Goldius by TheWolfBunny64_ 902653020.png
+  -> Hogwarts Goldius - TheWolfBunny64.json
+  -> #B6A571, #8B7E56, #554D35, #201D13
+Game Boy Palette; Ninja Turtle Green by TheWolfBunny64_ 810574661.png
+  -> Ninja Turtle Green - TheWolfBunny64.json
+  -> #86BC25, #668F1C, #3F5811, #172106
+Game Boy Palette; Nick Orange by TheWolfBunny64_ 807920018.png
+  -> Nick Orange - TheWolfBunny64.json
+  -> #FF6700, #CC5200, #7F3300, #4C1E00
+Game Boy Palette; Namco Idol Pink by TheWolfBunny64_ 904977864.png
+  -> Namco Idol Pink - TheWolfBunny64.json
+  -> #FF74B8, #C3588C, #783656, #2D1420
+Game Boy Palette; Star Command Green by TheWolfBunny64_ 881167598.png
+  -> Star Command Green - TheWolfBunny64.json
+  -> #B2E781, #88B062, #536C3C, #1F2816
+Game Boy Palette; Classic LCD by TheWolfBunny64_ 879260762.png
+  -> Classic LCD - TheWolfBunny64.json
+  -> #C6CBAD, #979B84, #5D5F51, #22231E
+Game Boy Palette; Game Grump Orange by TheWolfBunny64_ 808151801.png
+  -> Game Grump Orange - TheWolfBunny64.json
+  -> #E9762F, #B25A23, #6D3716, #291408
+Game Boy Palette; Greenscale Ver. (A classic!) by TheWolfBunny64_ 808011585.png
+  -> Greenscale Ver. (A classic!) - TheWolfBunny64.json
+  -> #9CBE0C, #6E870A, #2C6234, #0C360C
+Game Boy Palette; Fruity Orange by TheWolfBunny64_ 810574227.png
+  -> Fruity Orange - TheWolfBunny64.json
+  -> #F3BF88, #F08300, #9F563A, #241A08
+Game Boy Palette; VMU Ver. by TheWolfBunny64_ 808285267.png
+  -> VMU Ver. - TheWolfBunny64.json
+  -> #88CCA8, #689C80, #40604F, #081480
+Game Boy Palette; Pokemon Ver. by TheWolfBunny64_ 808148223.png
+  -> Pokemon Ver. - TheWolfBunny64.json
+  -> #F8E8F8, #F0B088, #807098, #181010
+Game Boy Palette; Ryuuguu Sunset by TheWolfBunny64_ 938887850.png
+  -> Ryuuguu Sunset - TheWolfBunny64.json
+  -> #FFE43F, #FD99E1, #9238BE, #2B1039
+Game Boy Palette; Angry Volcano Ver. by TheWolfBunny64_ 810565610.png
+  -> Angry Volcano Ver. - TheWolfBunny64.json
+  -> #F8B800, #F83800, #A81000, #1C0000
+Game Boy Palette; Nokia 3310 Ver. by TheWolfBunny64_ 881167927.png
+  -> Nokia 3310 Ver. - TheWolfBunny64.json
+  -> #73A684, #577E64, #364E3E, #141D17
+Game Boy Palette; Blossom Pink by TheWolfBunny64_ 808845471.png
+  -> Blossom Pink - TheWolfBunny64.json
+  -> #F09898, #B77474, #704747, #2A1A1A
+Game Boy Palette; Bill's PC Screen by TheWolfBunny64_ 922811178.png
+  -> Bill's PC Screen - TheWolfBunny64.json
+  -> #F87800, #B86000, #783800, #000000
+Game Boy Palette; Neon Pink by TheWolfBunny64_ 807912702.png
+  -> Neon Pink - TheWolfBunny64.json
+  -> #FF3278, #CC2860, #7F193C, #4C0F24
+Game Boy Palette; Equestrian Purple by TheWolfBunny64_ 881464510.png
+  -> Equestrian Purple - TheWolfBunny64.json
+  -> #A672B0, #7E5786, #4E3552, #1D141F
+Game Boy Palette; Duracell Copper by TheWolfBunny64_ 881468371.png
+  -> Duracell Copper - TheWolfBunny64.json
+  -> #C8895D, #986847, #5E402B, #191A1C
+Game Boy Palette; Tropical Starfall by TheWolfBunny64_ 939431319.png
+  -> Tropical Starfall - TheWolfBunny64.json
+  -> #63FDFB, #EF58F7, #4344C1, #141439
+Game Boy Palette; Bizarre Pink by TheWolfBunny64_ 808034625.png
+  -> Bizarre Pink - TheWolfBunny64.json
+  -> #EB008B, #B3006A, #6E0041, #290018
+Game Boy Palette; Goomba Brown by TheWolfBunny64_ 883049810.png
+  -> Goomba Brown - TheWolfBunny64.json
+  -> #AA593B, #82442D, #50291B, #1D0F0A
+Game Boy Palette; Xbox Green by TheWolfBunny64_ 877296434.png
+  -> Xbox Green - TheWolfBunny64.json
+  -> #92C83E, #6F982F, #445E1D, #19230A
+Game Boy Palette; Muse Pink by TheWolfBunny64_ 808001642.png
+  -> Muse Pink - TheWolfBunny64.json
+  -> #E4007F, #B60065, #72003F, #440026
+Game Boy Palette; Gamate Ver. by TheWolfBunny64_ 808006887.png
+  -> Gamate Ver. - TheWolfBunny64.json
+  -> #6BA64A, #437A63, #255955, #12424C
+Game Boy Palette; Google Blue by TheWolfBunny64_ 808309315.png
+  -> Google Blue - TheWolfBunny64.json
+  -> #4285F4, #3265BA, #1F3E72, #0B172B
+Game Boy Palette; Plumbob Green by TheWolfBunny64_ 881454049.png
+  -> Plumbob Green - TheWolfBunny64.json
+  -> #5EEA03, #47B202, #2C6E01, #102900
+Game Boy Palette; Swampy Ogre Green by TheWolfBunny64_ 880632737.png
+  -> Swampy Ogre Green - TheWolfBunny64.json
+  -> #C1D62E, #93A323, #5A6415, #222508
+Game Boy Palette; Scooby-Doo Mystery Ver. by TheWolfBunny64_ 808164549.png
+  -> Scooby-Doo Mystery Ver. - TheWolfBunny64.json
+  -> #C6DE31, #F79321, #8F59A5, #2A1A31
+Game Boy Palette; Aqours Blue by TheWolfBunny64_ 807891982.png
+  -> Aqours Blue - TheWolfBunny64.json
+  -> #00A0E9, #0080BA, #005074, #003045
+Game Boy Palette; Aegis Cherry by TheWolfBunny64_ 808262127.png
+  -> Aegis Cherry - TheWolfBunny64.json
+  -> #DD3B64, #A92D4C, #681B2F, #270A11
+Game Boy Palette; Halloween Ver. by TheWolfBunny64_ 808919321.png
+  -> Halloween Ver. - TheWolfBunny64.json
+  -> #FFCC00, #F68C00, #9540A5, #2C1331
+Game Boy Palette; Retro Bogeda by TheWolfBunny64_ 817658854.png
+  -> Retro Bogeda - TheWolfBunny64.json
+  -> #FBFD1B, #FF6CFF, #6408FF, #000000
+Game Boy Palette; Virtual Vision by TheWolfBunny64_ 807920873.png
+  -> Virtual Vision - TheWolfBunny64.json
+  -> #4C0000, #7F0000, #CC0000, #FF0000
+Game Boy Palette; Arendelle Winter Blue by TheWolfBunny64_ 934502097.png
+  -> Arendelle Winter Blue - TheWolfBunny64.json
+  -> #6CC0E8, #5292B1, #325A6D, #132128
+Game Boy Palette; Cherry Blossom Pink by TheWolfBunny64_ 883278784.png
+  -> Cherry Blossom Pink - TheWolfBunny64.json
+  -> #F07EB0, #B76086, #703B52, #2A161F
+Game Boy Palette; SpongeBob Yellow by TheWolfBunny64_ 807899372.png
+  -> SpongeBob Yellow - TheWolfBunny64.json
+  -> #F7E948, #C5BA39, #7B7424, #4A4515
+Game Boy Palette; S.E.E.S. Blue by TheWolfBunny64_ 810531759.png
+  -> S.E.E.S. Blue - TheWolfBunny64.json
+  -> #19D1FF, #139FC3, #0B6278, #04242D
+Game Boy Palette; Blue Stripes Ver. by TheWolfBunny64_ 810543604.png
+  -> Blue Stripes Ver. - TheWolfBunny64.json
+  -> #8BD3E1, #999B9C, #5A5B5B, #232424
+Game Boy Palette; Bobblun Blue by TheWolfBunny64_ 864194725.png
+  -> Bobblun Blue - TheWolfBunny64.json
+  -> #1FD1FD, #179FC1, #0E6277, #05242C
+Game Boy Palette; Perfect Majin Emperor by TheWolfBunny64_ 937380864.png
+  -> Perfect Majin Emperor - TheWolfBunny64.json
+  -> #FDC1BF, #A3B453, #8550A9, #271832
+Game Boy Palette; Tamagotchi Ver. by TheWolfBunny64_ 808857708.png
+  -> Tamagotchi Ver. - TheWolfBunny64.json
+  -> #F1F0F9, #B8B7BE, #717075, #3C3838
+Game Boy Palette; 1st Vision Pastel by TheWolfBunny64_ 937380494.png
+  -> 1st Vision Pastel - TheWolfBunny64.json
+  -> #EA7CB1, #7FAF5A, #385EAD, #101C33
+Game Boy Palette; Mania Plus Green by TheWolfBunny64_ 810574653.png
+  -> Mania Plus Green - TheWolfBunny64.json
+  -> #79C14E, #5C933B, #385A24, #15220D
+Game Boy Palette; Buttercup Green by TheWolfBunny64_ 808846329.png
+  -> Buttercup Green - TheWolfBunny64.json
+  -> #B8E088, #8CAB68, #566940, #202718
+Game Boy Palette; Tea Midori by TheWolfBunny64_ 810572166.png
+  -> Tea Midori - TheWolfBunny64.json
+  -> #D6E9CA, #88CB7F, #028760, #333631
+Game Boy Palette; Grinchy Green by TheWolfBunny64_ 882683688.png
+  -> Grinchy Green - TheWolfBunny64.json
+  -> #B7BE1C, #8B9115, #56590D, #202104
+Game Boy Palette; POCKET SWITCH by TheWolfBunny64_ 956933385.png
+  -> POCKET SWITCH - TheWolfBunny64.json
+  -> #B5C69C, #8D9C7B, #637251, #303820
+Game Boy Palette; Starbucks Green by TheWolfBunny64_ 889918587.png
+  -> Starbucks Green - TheWolfBunny64.json
+  -> #00704A, #005538, #003422, #00130D
+Game Boy Palette; SEGA Tokyo Blue by TheWolfBunny64_ 881457869.png
+  -> SEGA Tokyo Blue - TheWolfBunny64.json
+  -> #0082D4, #0063A2, #003D63, #001625
+Game Boy Palette; MILLION Yellow! by TheWolfBunny64_ 810557937.png
+  -> MILLION Yellow! - TheWolfBunny64.json
+  -> #FFC30B, #C39508, #785B05, #2D2201
+Game Boy Palette; Baja Blast Beach by TheWolfBunny64_ 970113772.png
+  -> Baja Blast Beach - TheWolfBunny64.json
+  -> #DBE441, #83CCC5, #4E7A76, #273D3B
+Game Boy Palette; Sonic Mega Blue by TheWolfBunny64_ 877359173.png
+  -> Sonic Mega Blue - TheWolfBunny64.json
+  -> #4084D9, #3064A5, #1E3E66, #0B1726
+Game Boy Palette; Kingdom Key Gold by TheWolfBunny64_ 902493926.png
+  -> Kingdom Key Gold - TheWolfBunny64.json
+  -> #CAAD32, #9A8426, #5F5117, #231E08
+Game Boy Palette; Baja Blast Storm by TheWolfBunny64_ 874471856.png
+  -> Baja Blast Storm - TheWolfBunny64.json
+  -> #68C2A4, #4F947D, #305B4D, #12221C
+Game Boy Palette; J-Pop Idol Sherbet by TheWolfBunny64_ 937382662.png
+  -> J-Pop Idol Sherbet - TheWolfBunny64.json
+  -> #F19DB5, #5BBEE5, #812990, #260C2B
+Game Boy Palette; Spooky Purple by TheWolfBunny64_ 883277398.png
+  -> Spooky Purple - TheWolfBunny64.json
+  -> #9E7CD2, #785EA0, #4A3A62, #1B1525
+Game Boy Palette; holoblue by TheWolfBunny64_ 875946342.png
+  -> holoblue - TheWolfBunny64.json
+  -> #B0EDFA, #49C4F2, #3368D3, #063F5C
+Game Boy Palette; Sanrio Pink by TheWolfBunny64_ 808118888.png
+  -> Sanrio Pink - TheWolfBunny64.json
+  -> #F9C2D0, #F485A1, #E74B5A, #83534D
+Game Boy Palette; Investigation Yellow by TheWolfBunny64_ 810529446.png
+  -> Investigation Yellow - TheWolfBunny64.json
+  -> #FFF919, #C3BE13, #78750B, #2D2B04
+Game Boy Palette; SideM Green by TheWolfBunny64_ 810560725.png
+  -> SideM Green - TheWolfBunny64.json
+  -> #0FBE94, #0B9171, #075945, #02211A
+Game Boy Palette; Crunchyroll Orange by TheWolfBunny64_ 807997591.png
+  -> Crunchyroll Orange - TheWolfBunny64.json
+  -> #F47522, #C35D1B, #7A3A11, #49230A
+Game Boy Palette; Phantom Red by TheWolfBunny64_ 808858154.png
+  -> Phantom Red - TheWolfBunny64.json
+  -> #FD2639, #C11D2B, #77111A, #2C060A
+Game Boy Palette; Nijigasaki Orange by TheWolfBunny64_ 875669082.png
+  -> Nijigasaki Orange - TheWolfBunny64.json
+  -> #F39800, #B97400, #724700, #2A1A00
+Game Boy Palette; Christmas Ver. by TheWolfBunny64_ 808921235.png
+  -> Christmas Ver. - TheWolfBunny64.json
+  -> #CBB96A, #20A465, #A03232, #300F0F
+Game Boy Palette; Mega Man V Ver. by TheWolfBunny64_ 808857157.png
+  -> Mega Man V Ver. - TheWolfBunny64.json
+  -> #D0D0D0, #70A0E0, #406890, #082030
+Game Boy Palette; Rocky-Valley Holiday by TheWolfBunny64_ 882678573.png
+  -> Rocky-Valley Holiday - TheWolfBunny64.json
+  -> #C0F0F8, #D89078, #805850, #204008
+Game Boy Palette; WonderSwan Ver. by TheWolfBunny64_ 808484621.png
+  -> WonderSwan Ver. - TheWolfBunny64.json
+  -> #FEFEFE, #C2C2C2, #686868, #1D1D1D
+Game Boy Palette; Bandai Namco Tricolor by TheWolfBunny64_ 934158672.png
+  -> Bandai Namco Tricolor - TheWolfBunny64.json
+  -> #F6B700, #DF4F61, #0069B1, #001F35
+Game Boy Palette; Steam Gray by TheWolfBunny64_ 882655947.png
+  -> Steam Gray - TheWolfBunny64.json
+  -> #C5C3C0, #969592, #5C5B5A, #222221
+Game Boy Palette; Eevee Brown by TheWolfBunny64_ 808247309.png
+  -> Eevee Brown - TheWolfBunny64.json
+  -> #C88D32, #986B26, #5E4217, #231808
+Game Boy Palette; Dr Pepper Red by TheWolfBunny64_ 889917954.png
+  -> Dr Pepper Red - TheWolfBunny64.json
+  -> #8A2231, #691A25, #401017, #180608
+Game Boy Palette; Nightvision Green by TheWolfBunny64_ 934128449.png
+  -> Nightvision Green - TheWolfBunny64.json
+  -> #122108, #305916, #4E9223, #66BF2F
+Game Boy Palette; Fairy Tail Red by TheWolfBunny64_ 810574570.png
+  -> Fairy Tail Red - TheWolfBunny64.json
+  -> #C7000A, #980007, #5D0004, #230001
+Game Boy Palette; Invincible Blue by TheWolfBunny64_ 882682328.png
+  -> Invincible Blue - TheWolfBunny64.json
+  -> #39C9EB, #2B99B3, #1A5E6E, #0A2329
+Game Boy Palette; Advanced Indigo by TheWolfBunny64_ 882303770.png
+  -> Advanced Indigo - TheWolfBunny64.json
+  -> #796ABA, #5C518E, #383157, #151220
+Game Boy Palette; Tokyo Disney Magic by TheWolfBunny64_ 889918817.png
+  -> Tokyo Disney Magic - TheWolfBunny64.json
+  -> #7EC4ED, #EF5697, #00529F, #00182F
+Game Boy Palette; Blue Bomber Azure by TheWolfBunny64_ 882653998.png
+  -> Blue Bomber Azure - TheWolfBunny64.json
+  -> #43BEFF, #3391C3, #1F5978, #0B212D
+Game Boy Palette; AKB48 Pink by TheWolfBunny64_ 810574557.png
+  -> AKB48 Pink - TheWolfBunny64.json
+  -> #F676A6, #BC5A7E, #73374E, #2B141D
+Game Boy Palette; Superball Ivory by TheWolfBunny64_ 807993493.png
+  -> Superball Ivory - TheWolfBunny64.json
+  -> #EEF0BC, #BCBC8A, #828250, #646432
+Game Boy Palette; Glitchy Blue by TheWolfBunny64_ 877517330.png
+  -> Glitchy Blue - TheWolfBunny64.json
+  -> #3C7AE6, #2D5DAF, #1C396C, #0A1528
+Game Boy Palette; Cheeto Orange by TheWolfBunny64_ 902978322.png
+  -> Cheeto Orange - TheWolfBunny64.json
+  -> #E57600, #AF5A00, #6B3700, #281400
+Game Boy Palette; Doraemon Tricolor by TheWolfBunny64_ 881448172.png
+  -> Doraemon Tricolor - TheWolfBunny64.json
+  -> #FFE800, #00A8F4, #E60000, #450000
+Game Boy Palette; Funimation Melon by TheWolfBunny64_ 889732657.png
+  -> Funimation Melon - TheWolfBunny64.json
+  -> #96FF00, #FF149F, #5B0BB5, #000000
+Game Boy Palette; Lime Midori by TheWolfBunny64_ 810574708.png
+  -> Lime Midori - TheWolfBunny64.json
+  -> #E0EBAF, #AACF53, #7B8D42, #475950
+Game Boy Palette; Android Green by TheWolfBunny64_ 808299717.png
+  -> Android Green - TheWolfBunny64.json
+  -> #3DDC84, #2EA864, #1C673E, #0A2617
+Game Boy Palette; Straw Hat Red by TheWolfBunny64_ 810535450.png
+  -> Straw Hat Red - TheWolfBunny64.json
+  -> #F8523C, #BD3E2D, #74261C, #2B0E0A
+Game Boy Palette; Legendary Super Saiyan by TheWolfBunny64_ 810503022.png
+  -> Legendary Super Saiyan - TheWolfBunny64.json
+  -> #A6DA5B, #7EA645, #4E662A, #1D2610
+Game Boy Palette; Silver Shiro by TheWolfBunny64_ 810573959.png
+  -> Silver Shiro - TheWolfBunny64.json
+  -> #DCDDDD, #AFAFB0, #727171, #383C3C
+Game Boy Palette; Perfected Ultra Instinct by TheWolfBunny64_ 810509444.png
+  -> Perfected Ultra Instinct - TheWolfBunny64.json
+  -> #C0C8D8, #9298A5, #5A5E65, #212326
+Game Boy Palette; DMG Ver. by TheWolfBunny64_ 808181265.png
+  -> DMG Ver. - TheWolfBunny64.json
+  -> #7F860F, #577C44, #365D48, #2A453B
+Game Boy Palette; Olympic Gold by TheWolfBunny64_ 874472128.png
+  -> Olympic Gold - TheWolfBunny64.json
+  -> #D5B624, #A28B1B, #645510, #252006
+Game Boy Palette; Timeless Gold and Red by TheWolfBunny64_ 879518003.png
+  -> Timeless Gold and Red - TheWolfBunny64.json
+  -> #C8AA50, #B91E23, #6C1114, #2B0708
+Game Boy Palette; Duolingo Green by TheWolfBunny64_ 889340467.png
+  -> Duolingo Green - TheWolfBunny64.json
+  -> #58CC02, #439C01, #296000, #0F2400
+Game Boy Palette; Neo Geo Pocket Ver. by TheWolfBunny64_ 808485141.png
+  -> Neo Geo Pocket Ver. - TheWolfBunny64.json
+  -> #F0F0F0, #B0B0B0, #707070, #101010
+Game Boy Palette; Bedrock Caveman Vision by TheWolfBunny64_ 969547494.png
+  -> Bedrock Caveman Vision - TheWolfBunny64.json
+  -> #FF7F00, #009EB8, #005C6C, #00252B
+Game Boy Palette; Winter Icy Blue by TheWolfBunny64_ 883280487.png
+  -> Winter Icy Blue - TheWolfBunny64.json
+  -> #7FE3F5, #61ADBB, #3B6A73, #16282B
+Game Boy Palette; Winter Christmas by TheWolfBunny64_ 934039972.png
+  -> Winter Christmas - TheWolfBunny64.json
+  -> #DDDDDD, #65B08F, #AE3B40, #341113
+Game Boy Palette; Dragon Ball Orange by TheWolfBunny64_ 861435383.png
+  -> Dragon Ball Orange - TheWolfBunny64.json
+  -> #F0831D, #B76416, #703D0D, #2A1705
+Game Boy Palette; IDOL WORLD TRICOLOR!!! by TheWolfBunny64_ 934056313.png
+  -> IDOL WORLD TRICOLOR!!! - TheWolfBunny64.json
+  -> #FFC30B, #F34F6D, #2681C8, #0B263C
+Game Boy Palette; Treasure Gold by TheWolfBunny64_ 883277800.png
+  -> Treasure Gold - TheWolfBunny64.json
+  -> #CBB524, #9B8A1B, #5F5510, #231F06
+Game Boy Palette; Timing Hero Ver. by TheWolfBunny64_ 882681402.png
+  -> Timing Hero Ver. - TheWolfBunny64.json
+  -> #CCCC99, #8C994C, #4C6718, #202E00
+Game Boy Palette; Neon Purple by TheWolfBunny64_ 817659657.png
+  -> Neon Purple - TheWolfBunny64.json
+  -> #B400E6, #8900AF, #54006C, #1F0028
+Game Boy Palette; Beijing Blue by TheWolfBunny64_ 817662490.png
+  -> Beijing Blue - TheWolfBunny64.json
+  -> #3AADDD, #2C84A9, #1B5168, #0A1E27
+Game Boy Palette; Link's Awakening DX Ver. by TheWolfBunny64_ 808141340.png
+  -> Link's Awakening DX Ver. - TheWolfBunny64.json
+  -> #F8F8B0, #78C078, #688840, #583820
+Game Boy Palette; 3DS Virtual Console Green by TheWolfBunny64_ 970114461.png
+  -> 3DS Virtual Console Green - TheWolfBunny64.json
+  -> #BDFF21, #9CEF29, #5A8C42, #4A4A4A
+Game Boy Palette; Supervision Ver. by TheWolfBunny64_ 808177199.png
+  -> Supervision Ver. - TheWolfBunny64.json
+  -> #7CC67C, #54A68C, #2C6264, #0C322C
+Game Boy Palette; animate blue by TheWolfBunny64_ 883046862.png
+  -> animate blue - TheWolfBunny64.json
+  -> #385EAA, #2A4782, #1A2C50, #09101D
+Game Boy Palette; 3DS Virtual Console Ver. by TheWolfBunny64_ 879260913.png
+  -> 3DS Virtual Console Ver. - TheWolfBunny64.json
+  -> #CECEAD, #A5A58C, #6B6B52, #292918
+Game Boy Palette; Rockstar Orange by TheWolfBunny64_ 881450285.png
+  -> Rockstar Orange - TheWolfBunny64.json
+  -> #FCAF17, #C08511, #76520A, #2C1E04
+Game Boy Palette; Saiyan Beast Silver by TheWolfBunny64_ 963545291.png
+  -> Saiyan Beast Silver - TheWolfBunny64.json
+  -> #969BAF, #727685, #464852, #1A1B1E
+Game Boy Palette; Sunny Passion Paradise by TheWolfBunny64_ 963540942.png
+  -> Sunny Passion Paradise - TheWolfBunny64.json
+  -> #F0BA40, #E06846, #1E6CAE, #092034
+Game Boy Palette; Team Rocket Red by TheWolfBunny64_ 881169382.png
+  -> Team Rocket Red - TheWolfBunny64.json
+  -> #B83020, #8C2418, #56160F, #200805
+Game Boy Palette; Deku Alpha Emerald by TheWolfBunny64_ 810541701.png
+  -> Deku Alpha Emerald - TheWolfBunny64.json
+  -> #38AD9D, #2A8478, #1A5149, #091E1B

@@ -1,0 +1,3606 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "supermushroomvision",
+        "name": "Super Mushroom Vision",
+        "palette": [
+          "#F7CEC3",
+          "#CC9E22",
+          "#923404",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "valueorange",
+        "name": "Value Orange",
+        "palette": [
+          "#E68E00",
+          "#AF6C00",
+          "#6C4200",
+          "#281900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "slimeblue",
+        "name": "Slime Blue",
+        "palette": [
+          "#2F8CCC",
+          "#236B9C",
+          "#164160",
+          "#081824"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "smurfyblue",
+        "name": "Smurfy Blue",
+        "palette": [
+          "#2CB9EF",
+          "#218DB6",
+          "#145770",
+          "#07202A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pocketver",
+        "name": "Pocket Ver.",
+        "palette": [
+          "#C4CFA1",
+          "#8B956D",
+          "#4D533C",
+          "#1F1F1F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "microvisionver",
+        "name": "Microvision Ver.",
+        "palette": [
+          "#A0A0A0",
+          "#787878",
+          "#505050",
+          "#303030"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "shiningpearlpink",
+        "name": "Shining Pearl Pink",
+        "palette": [
+          "#D28EA0",
+          "#A06C7A",
+          "#62424B",
+          "#25191C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "susangpink",
+        "name": "Susan G. Pink",
+        "palette": [
+          "#EA77AF",
+          "#B25A85",
+          "#6E3852",
+          "#29151E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bandainamcover",
+        "name": "BANDAI NAMCO Ver.",
+        "palette": [
+          "#FFBF00",
+          "#FF5C00",
+          "#E60000",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "irishgreen",
+        "name": "Irish Green",
+        "palette": [
+          "#45BE76",
+          "#34915A",
+          "#205937",
+          "#0C2114"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "olympicbronze",
+        "name": "Olympic Bronze",
+        "palette": [
+          "#CD8152",
+          "#9C623E",
+          "#603C26",
+          "#24160E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "labofawn",
+        "name": "Labo Fawn",
+        "palette": [
+          "#D7AA73",
+          "#A48257",
+          "#655036",
+          "#251E14"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "supersaiyanblue",
+        "name": "Super Saiyan Blue",
+        "palette": [
+          "#05BCCC",
+          "#038F9C",
+          "#025860",
+          "#002124"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "supersaiyanblueevolved",
+        "name": "Super Saiyan Blue Evolved",
+        "palette": [
+          "#1B97D1",
+          "#14739F",
+          "#0C4762",
+          "#041A24"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "googlegreen",
+        "name": "Google Green",
+        "palette": [
+          "#34A853",
+          "#27803F",
+          "#184F27",
+          "#091D0E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ghostlyaoi",
+        "name": "Ghostly Aoi",
+        "palette": [
+          "#84A2D4",
+          "#5A79BA",
+          "#19448E",
+          "#0F2350"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "goldentrophy",
+        "name": "Golden Trophy",
+        "palette": [
+          "#E8D018",
+          "#B19F12",
+          "#6D610B",
+          "#282404"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "joyconmariored",
+        "name": "(Joy-Con) Mario Red",
+        "palette": [
+          "#E10F00",
+          "#B40C00",
+          "#700700",
+          "#430400"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dreamlandgbver",
+        "name": "Dream Land GB Ver.",
+        "palette": [
+          "#F6FF70",
+          "#B9D03A",
+          "#788B1D",
+          "#48530E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "surveycorpsbrown",
+        "name": "Survey Corps Brown",
+        "palette": [
+          "#AB7D57",
+          "#825F42",
+          "#503A28",
+          "#1E160F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "barbiepink",
+        "name": "Barbie Pink",
+        "palette": [
+          "#E94397",
+          "#B23373",
+          "#6D1F47",
+          "#290B1A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "tokyoskytreecloudyblue",
+        "name": "TOKYO SKYTREE CLOUDY BLUE",
+        "palette": [
+          "#82B5C7",
+          "#638A98",
+          "#3D555D",
+          "#161F23"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "mikublue",
+        "name": "Miku Blue",
+        "palette": [
+          "#11ADD5",
+          "#0D84A2",
+          "#085164",
+          "#031E25"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "islandgreen",
+        "name": "Island Green",
+        "palette": [
+          "#009B7E",
+          "#007660",
+          "#00483B",
+          "#001B16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "goldenwild",
+        "name": "Golden Wild",
+        "palette": [
+          "#B99F65",
+          "#947F50",
+          "#5C4F32",
+          "#372F1E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "yellowbanana",
+        "name": "Yellow Banana",
+        "palette": [
+          "#FFDF08",
+          "#DE9E00",
+          "#AD6939",
+          "#734900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "tokyomidtownver",
+        "name": "Tokyo Midtown Ver.",
+        "palette": [
+          "#8FAD15",
+          "#4B8C2B",
+          "#44693D",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "shenrongreen",
+        "name": "Shenron Green",
+        "palette": [
+          "#5AC34A",
+          "#449538",
+          "#2A5B22",
+          "#0F220D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "scarlettgreen",
+        "name": "Scarlett Green",
+        "palette": [
+          "#9BF00B",
+          "#76B708",
+          "#487005",
+          "#1B2A01"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pacmanyellow",
+        "name": "Pac-Man Yellow",
+        "palette": [
+          "#FFE300",
+          "#C3AD00",
+          "#786A00",
+          "#2D2800"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pepsivision",
+        "name": "Pepsi Vision",
+        "palette": [
+          "#FFFFFF",
+          "#FF1400",
+          "#1414C8",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bubblungreen",
+        "name": "Bubblun Green",
+        "palette": [
+          "#6ADC31",
+          "#51A825",
+          "#316717",
+          "#122608"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gameawardscyan",
+        "name": "Game Awards Cyan",
+        "palette": [
+          "#49E8D9",
+          "#37B1A5",
+          "#226D66",
+          "#0C2826"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "blackpinkblinkpink",
+        "name": "BLACKPINK BLINK PINK",
+        "palette": [
+          "#F4A7BA",
+          "#BA7F8E",
+          "#724E57",
+          "#2B1D20"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ariseblue",
+        "name": "A-RISE BLUE",
+        "palette": [
+          "#30559C",
+          "#244177",
+          "#162849",
+          "#080F1B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "berserkblood",
+        "name": "Berserk Blood",
+        "palette": [
+          "#BB1414",
+          "#8F0F0F",
+          "#570909",
+          "#200303"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "765productionver",
+        "name": "765 Production Ver.",
+        "palette": [
+          "#BBC4E4",
+          "#959CB6",
+          "#5D6272",
+          "#383A44"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "skypopivory",
+        "name": "Sky Pop Ivory",
+        "palette": [
+          "#E5E0B8",
+          "#BEBB95",
+          "#86825C",
+          "#525025"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "superfamicomsupreme",
+        "name": "Super Famicom Supreme",
+        "palette": [
+          "#FEDA5A",
+          "#44AC71",
+          "#D94040",
+          "#0846BA"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "yokaigreen",
+        "name": "Yo-kai Green",
+        "palette": [
+          "#66B83C",
+          "#4E8C2D",
+          "#30561C",
+          "#11200A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "famicomfrenzy",
+        "name": "Famicom Frenzy",
+        "palette": [
+          "#EFECDA",
+          "#D9BE72",
+          "#A32135",
+          "#231916"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gamekingver",
+        "name": "GameKing Ver.",
+        "palette": [
+          "#8CCE94",
+          "#6B9C63",
+          "#506541",
+          "#184221"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "niconicoseagreen",
+        "name": "niconico sea green",
+        "palette": [
+          "#19C3A4",
+          "#13957D",
+          "#0B5B4D",
+          "#04221C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "animeexpover",
+        "name": "Anime Expo Ver.",
+        "palette": [
+          "#E5EAEB",
+          "#9BA3A6",
+          "#656E72",
+          "#242A2D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "spiderversered",
+        "name": "Spider-Verse Red",
+        "palette": [
+          "#D4134C",
+          "#A20E3A",
+          "#630823",
+          "#25030D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "neonyellow",
+        "name": "Neon Yellow",
+        "palette": [
+          "#E6FF00",
+          "#B8CC00",
+          "#737F00",
+          "#454C00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dmggold",
+        "name": "DMG-GOLD",
+        "palette": [
+          "#A1B560",
+          "#7B8A49",
+          "#4B552D",
+          "#1C1F10"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "sailorspinachgreen",
+        "name": "Sailor Spinach Green",
+        "palette": [
+          "#7BB03C",
+          "#5E862D",
+          "#39521C",
+          "#151F0A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dmgswitch",
+        "name": "DMG-SWITCH",
+        "palette": [
+          "#8CAD28",
+          "#6C9421",
+          "#426B29",
+          "#214231"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pikachuyellow",
+        "name": "Pikachu Yellow",
+        "palette": [
+          "#FFDC00",
+          "#C3A800",
+          "#786700",
+          "#2D2600"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "collectionofsagaver",
+        "name": "COLLECTION of SaGa Ver.",
+        "palette": [
+          "#B2C0A8",
+          "#769A67",
+          "#345D51",
+          "#041820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "christmasgold",
+        "name": "Christmas Gold",
+        "palette": [
+          "#C0A94B",
+          "#928139",
+          "#5A4F23",
+          "#211D0D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dkarcadeblue",
+        "name": "DK Arcade Blue",
+        "palette": [
+          "#47A2DE",
+          "#367BA9",
+          "#214C68",
+          "#0C1C27"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "chozoblue",
+        "name": "Chozo Blue",
+        "palette": [
+          "#4EB3E1",
+          "#3B88AC",
+          "#245469",
+          "#0D1F27"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "wisteriamurasaki",
+        "name": "Wisteria Murasaki",
+        "palette": [
+          "#DBD0E6",
+          "#A59ACA",
+          "#7058A3",
+          "#2E2930"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "puyopuyogreen",
+        "name": "Puyo Puyo Green",
+        "palette": [
+          "#48E236",
+          "#37AC29",
+          "#216A19",
+          "#0C2709"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "lovelivebrightpink",
+        "name": "Love Live Bright Pink!",
+        "palette": [
+          "#F34F6C",
+          "#C23F56",
+          "#792736",
+          "#481720"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "royalblue",
+        "name": "Royal Blue",
+        "palette": [
+          "#4655F5",
+          "#3540BB",
+          "#202773",
+          "#0C0E2B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "seikotimeryellow",
+        "name": "SEIKO Timer Yellow",
+        "palette": [
+          "#FCC800",
+          "#C09800",
+          "#765E00",
+          "#2C2300"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "chaosemeraldgreen",
+        "name": "Chaos Emerald Green",
+        "palette": [
+          "#6CD800",
+          "#52A500",
+          "#326500",
+          "#132600"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "lightver",
+        "name": "Light Ver.",
+        "palette": [
+          "#00B581",
+          "#009A71",
+          "#00694A",
+          "#004F3B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ancienthisuianbrown",
+        "name": "Ancient Hisuian Brown",
+        "palette": [
+          "#B39F90",
+          "#88796E",
+          "#544A43",
+          "#1F1C19"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "765protricolor",
+        "name": "765PRO TRICOLOR",
+        "palette": [
+          "#B4E04B",
+          "#E22B30",
+          "#2743D2",
+          "#0B143F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pacpalette",
+        "name": "PAC-PALETTE",
+        "palette": [
+          "#FFD800",
+          "#FF8C00",
+          "#DC0000",
+          "#420000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "garfieldvision",
+        "name": "Garfield Vision",
+        "palette": [
+          "#F5EA8B",
+          "#E59436",
+          "#964220",
+          "#2D1309"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "championstunic",
+        "name": "Champion's Tunic",
+        "palette": [
+          "#E2DCB1",
+          "#009EDD",
+          "#875B40",
+          "#281B13"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "wonderpurple",
+        "name": "Wonder Purple",
+        "palette": [
+          "#E658DF",
+          "#B846B2",
+          "#732C6F",
+          "#451A42"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "wrestlingred",
+        "name": "Wrestling Red",
+        "palette": [
+          "#D7182A",
+          "#A41220",
+          "#650B13",
+          "#250407"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "shinyskyblue",
+        "name": "SHINY Sky Blue",
+        "palette": [
+          "#8DBBFF",
+          "#6B8EC3",
+          "#425878",
+          "#18212D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pink109",
+        "name": "PINK109",
+        "palette": [
+          "#FD87B2",
+          "#C16788",
+          "#773F53",
+          "#2C171F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "nijigasakiyellow",
+        "name": "Nijigasaki Yellow",
+        "palette": [
+          "#FAB920",
+          "#BF8D18",
+          "#75570F",
+          "#2C2005"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "teyvatbrown",
+        "name": "Teyvat Brown",
+        "palette": [
+          "#B89469",
+          "#8C7150",
+          "#564531",
+          "#201A12"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "nhksilvergray",
+        "name": "NHK Silver Gray",
+        "palette": [
+          "#808080",
+          "#616161",
+          "#3C3C3C",
+          "#161616"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "walmartdiscountblue",
+        "name": "Walmart Discount Blue",
+        "palette": [
+          "#0071DC",
+          "#0056A8",
+          "#003567",
+          "#001326"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "miraitowablue",
+        "name": "Miraitowa Blue",
+        "palette": [
+          "#25BDEF",
+          "#1C90B6",
+          "#115870",
+          "#06212A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "radiantsmileramp",
+        "name": "RADIANT SMILE RAMP",
+        "palette": [
+          "#FFF89B",
+          "#01B3C4",
+          "#E6016B",
+          "#1B1C81"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "prettyguardiangold",
+        "name": "Pretty Guardian Gold",
+        "palette": [
+          "#B4AA82",
+          "#898263",
+          "#54503D",
+          "#1F1E16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "spotifygreen",
+        "name": "Spotify Green",
+        "palette": [
+          "#1ED760",
+          "#16A449",
+          "#0E652D",
+          "#052510"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "yoshiegggreen",
+        "name": "Yoshi Egg Green",
+        "palette": [
+          "#66C430",
+          "#4E9524",
+          "#305C16",
+          "#112208"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "devilred",
+        "name": "Devil Red",
+        "palette": [
+          "#D0011B",
+          "#9F0014",
+          "#61000C",
+          "#240004"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "lcdclockgreen",
+        "name": "LCD Clock Green",
+        "palette": [
+          "#50B580",
+          "#3D8A61",
+          "#25553C",
+          "#0E1F16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bangtanarmypurple",
+        "name": "BANGTAN ARMY PURPLE",
+        "palette": [
+          "#8048D8",
+          "#6137A5",
+          "#3C2165",
+          "#160C26"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "wandapink",
+        "name": "Wanda Pink",
+        "palette": [
+          "#D84C9F",
+          "#A53A79",
+          "#65234A",
+          "#260D1C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "grandivory",
+        "name": "Grand Ivory",
+        "palette": [
+          "#D9D6BE",
+          "#A5A391",
+          "#666459",
+          "#262521"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dothedewver",
+        "name": "Do The Dew Ver.",
+        "palette": [
+          "#FFFFFF",
+          "#A1D23F",
+          "#D82A34",
+          "#29673C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ebottprolouge",
+        "name": "Ebott Prolouge",
+        "palette": [
+          "#C08226",
+          "#854A1D",
+          "#4A290B",
+          "#2C1708"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "7elevencolorcombo",
+        "name": "7-Eleven Color Combo",
+        "palette": [
+          "#FF6C00",
+          "#EB0F2A",
+          "#147350",
+          "#062218"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bubblesblue",
+        "name": "Bubbles Blue",
+        "palette": [
+          "#88D0F0",
+          "#679FB7",
+          "#406170",
+          "#18242A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bikinibottomver",
+        "name": "Bikini Bottom Ver.",
+        "palette": [
+          "#F8F880",
+          "#48F8E0",
+          "#2098F0",
+          "#606000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "superstarpink",
+        "name": "Super Star Pink",
+        "palette": [
+          "#F3A5AA",
+          "#B97E82",
+          "#724D4F",
+          "#2A1D1D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "googlered",
+        "name": "Google Red",
+        "palette": [
+          "#EA4335",
+          "#B23328",
+          "#6E1F18",
+          "#290B09"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "supersaiyan3",
+        "name": "Super Saiyan 3",
+        "palette": [
+          "#F8C838",
+          "#BD982A",
+          "#745E1A",
+          "#2B2309"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "demonsgold",
+        "name": "Demon's Gold",
+        "palette": [
+          "#BAAF56",
+          "#8E8541",
+          "#575228",
+          "#201E0F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "camouflagever",
+        "name": "Camouflage Ver.",
+        "palette": [
+          "#BCAB90",
+          "#AC7E54",
+          "#79533D",
+          "#373538"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pokemonminiver",
+        "name": "Pokemon mini Ver.",
+        "palette": [
+          "#A5BEA5",
+          "#7E917E",
+          "#4D594D",
+          "#1D211D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "kakarotorange",
+        "name": "Kakarot Orange",
+        "palette": [
+          "#E7612C",
+          "#B04A21",
+          "#6C2D14",
+          "#281107"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pokemonpinballver",
+        "name": "Pokemon Pinball Ver.",
+        "palette": [
+          "#E8F8B8",
+          "#A0B050",
+          "#786030",
+          "#181820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "supersaiyanrose",
+        "name": "Super Saiyan Rose",
+        "palette": [
+          "#F7AFB3",
+          "#BC8588",
+          "#745254",
+          "#2B1E1F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "supersaiyangod",
+        "name": "Super Saiyan God",
+        "palette": [
+          "#D70362",
+          "#A4024A",
+          "#65012E",
+          "#250011"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "neonblue",
+        "name": "Neon Blue",
+        "palette": [
+          "#0AB9E6",
+          "#0894B8",
+          "#055C73",
+          "#033745"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gamecubeglimmer",
+        "name": "GameCube Glimmer",
+        "palette": [
+          "#B6BED3",
+          "#11A396",
+          "#CF4151",
+          "#3E1318"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "goldsilverandbronze",
+        "name": "Gold, Silver, and Bronze",
+        "palette": [
+          "#BEB049",
+          "#86949A",
+          "#996843",
+          "#2D1F14"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "oniaka",
+        "name": "Oni Aka",
+        "palette": [
+          "#EC6D71",
+          "#D9333F",
+          "#A22041",
+          "#640125"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "saintsnowred",
+        "name": "Saint Snow Red",
+        "palette": [
+          "#BF3936",
+          "#922B29",
+          "#591A19",
+          "#210A09"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dewgreen",
+        "name": "Dew Green",
+        "palette": [
+          "#97D700",
+          "#73A400",
+          "#476500",
+          "#1A2500"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dkbarrelbrown",
+        "name": "DK Barrel Brown",
+        "palette": [
+          "#C3742F",
+          "#955823",
+          "#5B3616",
+          "#221408"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cardcaptorpink",
+        "name": "Cardcaptor Pink",
+        "palette": [
+          "#F2F4F7",
+          "#EAC3D6",
+          "#E10E82",
+          "#430427"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "autobotred",
+        "name": "Autobot Red",
+        "palette": [
+          "#C31F3C",
+          "#95172D",
+          "#5B0E1C",
+          "#22050A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "inklingtricolor",
+        "name": "Inkling Tricolor",
+        "palette": [
+          "#EAFF3D",
+          "#FF505E",
+          "#603BFF",
+          "#1C114C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "nintendoswitchlitever",
+        "name": "Nintendo Switch Lite Ver.",
+        "palette": [
+          "#EFBE2D",
+          "#00B2B3",
+          "#646464",
+          "#3C3C3C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "utared",
+        "name": "UTA RED",
+        "palette": [
+          "#E24465",
+          "#AC344D",
+          "#6A202F",
+          "#270B11"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "neongreen",
+        "name": "Neon Green",
+        "palette": [
+          "#1EDC00",
+          "#18B000",
+          "#0F6E00",
+          "#094200"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "sakurapink",
+        "name": "Sakura Pink",
+        "palette": [
+          "#FDEFF2",
+          "#EEBBCB",
+          "#E7609E",
+          "#A25768"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "eva01",
+        "name": "EVA-01",
+        "palette": [
+          "#54CF54",
+          "#F99B22",
+          "#765898",
+          "#303345"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "brilliantdiamondblue",
+        "name": "Brilliant Diamond Blue",
+        "palette": [
+          "#7FBBE1",
+          "#618FAC",
+          "#3B5869",
+          "#162127"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "patrickstarpink",
+        "name": "Patrick Star Pink",
+        "palette": [
+          "#FF808B",
+          "#CC666F",
+          "#7F4045",
+          "#4C2629"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "digivicever",
+        "name": "Digivice Ver.",
+        "palette": [
+          "#8C8C73",
+          "#6B6B57",
+          "#414136",
+          "#181814"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "765propink",
+        "name": "765PRO Pink",
+        "palette": [
+          "#F34F6D",
+          "#B93C53",
+          "#722533",
+          "#2A0D13"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "metallicpaldeabrass",
+        "name": "Metallic Paldea Brass",
+        "palette": [
+          "#A29834",
+          "#7B7427",
+          "#4C4718",
+          "#1C1A09"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "classicblurple",
+        "name": "Classic Blurple",
+        "palette": [
+          "#7289DA",
+          "#5B6DAE",
+          "#38446D",
+          "#222941"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pizzahutred",
+        "name": "Pizza Hut Red",
+        "palette": [
+          "#E3383E",
+          "#AD2A2F",
+          "#6A1A1D",
+          "#28090A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gigakiwidmg",
+        "name": "Giga Kiwi DMG",
+        "palette": [
+          "#D0E040",
+          "#A0A830",
+          "#607028",
+          "#384828"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dmgpeagreen",
+        "name": "DMG Pea Green",
+        "palette": [
+          "#D7E894",
+          "#AEC440",
+          "#527F39",
+          "#204631"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "saitamasuperblue",
+        "name": "SAITAMA SUPER BLUE",
+        "palette": [
+          "#277ABC",
+          "#1D5D8F",
+          "#123958",
+          "#061521"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ti83ver",
+        "name": "TI-83 Ver.",
+        "palette": [
+          "#9CAA8C",
+          "#77826B",
+          "#495041",
+          "#1B1D18"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "hokageorange",
+        "name": "Hokage Orange",
+        "palette": [
+          "#EA8352",
+          "#B2643E",
+          "#6E3D26",
+          "#29170E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pacmanvision",
+        "name": "Pac-Man Vision",
+        "palette": [
+          "#FFFF00",
+          "#FFB897",
+          "#3732FF",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cinderellablue",
+        "name": "CINDERELLA Blue",
+        "palette": [
+          "#2681C8",
+          "#1D6298",
+          "#113C5E",
+          "#061623"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "googleyellow",
+        "name": "Google Yellow",
+        "palette": [
+          "#FBBC05",
+          "#BF8F03",
+          "#765802",
+          "#2C2100"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "liellapurple",
+        "name": "Liella Purple!",
+        "palette": [
+          "#A5469B",
+          "#7E3576",
+          "#4D2048",
+          "#1D0C1B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "furyblue",
+        "name": "Fury Blue",
+        "palette": [
+          "#2B5F98",
+          "#204874",
+          "#142C47",
+          "#07101A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "yokaipurple",
+        "name": "Yo-kai Purple",
+        "palette": [
+          "#938AC1",
+          "#706993",
+          "#45405A",
+          "#191822"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pockettalesver",
+        "name": "Pocket Tales Ver.",
+        "palette": [
+          "#D0D860",
+          "#88A000",
+          "#385000",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gamemasterver",
+        "name": "Game Master Ver.",
+        "palette": [
+          "#829FA6",
+          "#63797E",
+          "#3D4A4E",
+          "#161C1D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "famicomdiskyellow",
+        "name": "Famicom Disk Yellow",
+        "palette": [
+          "#F3C200",
+          "#B99400",
+          "#725B00",
+          "#2A2200"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "olympicsilver",
+        "name": "Olympic Silver",
+        "palette": [
+          "#9EA59C",
+          "#787E77",
+          "#4A4D49",
+          "#1B1D1B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "lemonlimegreen",
+        "name": "Lemon-Lime Green",
+        "palette": [
+          "#F1C545",
+          "#51A631",
+          "#336632",
+          "#142813"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "spritegreen",
+        "name": "Sprite Green",
+        "palette": [
+          "#009B4E",
+          "#00763B",
+          "#004824",
+          "#001B0D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "greenawakening",
+        "name": "Green Awakening",
+        "palette": [
+          "#F1FFDD",
+          "#98DB75",
+          "#367058",
+          "#000B16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "tokyored",
+        "name": "Tokyo Red",
+        "palette": [
+          "#B11D33",
+          "#871626",
+          "#530D17",
+          "#1F0508"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "swordartcyan",
+        "name": "Sword Art Cyan",
+        "palette": [
+          "#59C3E2",
+          "#4495AC",
+          "#295B6A",
+          "#0F2227"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "millionlivegold",
+        "name": "MILLION LIVE GOLD!",
+        "palette": [
+          "#CDB261",
+          "#9C884A",
+          "#60532D",
+          "#241F11"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gamebuinoclassicver",
+        "name": "Gamebuino Classic Ver.",
+        "palette": [
+          "#81A17E",
+          "#627B60",
+          "#3C4B3B",
+          "#161C16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "lawsonblue",
+        "name": "LAWSON BLUE",
+        "palette": [
+          "#0068B7",
+          "#004F8B",
+          "#003056",
+          "#001220"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "odysseyboy",
+        "name": "Odyssey Boy",
+        "palette": [
+          "#ACBE8C",
+          "#7E8E67",
+          "#505445",
+          "#222421"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "anaskyblue",
+        "name": "ANA Sky Blue",
+        "palette": [
+          "#00B3F0",
+          "#0088B7",
+          "#005470",
+          "#001F2A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "clovergreen",
+        "name": "Clover Green",
+        "palette": [
+          "#39B54A",
+          "#2B8A38",
+          "#1A5522",
+          "#0A1F0D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "frogcoingreen",
+        "name": "Frog Coin Green",
+        "palette": [
+          "#FFF7DE",
+          "#00EF00",
+          "#398400",
+          "#003900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "garrysblue",
+        "name": "Garry's Blue",
+        "palette": [
+          "#0082FF",
+          "#0063C3",
+          "#003D78",
+          "#00162D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "tropicaltwiceapricot",
+        "name": "TROPICAL TWICE APRICOT",
+        "palette": [
+          "#FCC89B",
+          "#FF5FA2",
+          "#96375F",
+          "#3C1626"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "kentuckyfriedred",
+        "name": "Kentucky Fried Red",
+        "palette": [
+          "#AB182F",
+          "#821223",
+          "#500B16",
+          "#1E0408"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cosmogreen",
+        "name": "Cosmo Green",
+        "palette": [
+          "#4EBD59",
+          "#3B9044",
+          "#245829",
+          "#0D210F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "poketchver",
+        "name": "Poketch Ver.",
+        "palette": [
+          "#70B070",
+          "#508050",
+          "#385030",
+          "#102818"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "classychristmas",
+        "name": "Classy Christmas",
+        "palette": [
+          "#E8E7DF",
+          "#8BAB95",
+          "#9E5C5E",
+          "#534D57"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "supersaiyan",
+        "name": "Super Saiyan",
+        "palette": [
+          "#FEFCC1",
+          "#C2C093",
+          "#77765A",
+          "#2C2C22"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "disneydreamblue",
+        "name": "Disney Dream Blue",
+        "palette": [
+          "#1786EB",
+          "#1166B3",
+          "#0A3F6E",
+          "#041729"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "greenbanana",
+        "name": "Green Banana",
+        "palette": [
+          "#63DF08",
+          "#4A9E00",
+          "#396939",
+          "#214900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "goldenkiiro",
+        "name": "Golden Kiiro",
+        "palette": [
+          "#F8E58C",
+          "#DCCB18",
+          "#A69425",
+          "#6A5D21"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dominosblue",
+        "name": "Domino's Blue",
+        "palette": [
+          "#007BAD",
+          "#005E84",
+          "#003951",
+          "#00151E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "animeexpored",
+        "name": "Anime Expo Red",
+        "palette": [
+          "#EE3B33",
+          "#B62D27",
+          "#701B18",
+          "#2A0A09"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "crashorange",
+        "name": "Crash Orange",
+        "palette": [
+          "#F37C30",
+          "#B95E24",
+          "#723A16",
+          "#2A1508"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "tigergamecomver",
+        "name": "Tiger Game.com Ver.",
+        "palette": [
+          "#A7BF6B",
+          "#6F8F4F",
+          "#0F4F2F",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "yokaiblue",
+        "name": "Yo-kai Blue",
+        "palette": [
+          "#33B6EA",
+          "#278BB2",
+          "#18556E",
+          "#092029"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "colorfulhorizons",
+        "name": "Colorful Horizons",
+        "palette": [
+          "#F6CF72",
+          "#60BDC7",
+          "#D15252",
+          "#373939"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "simpsonyellow",
+        "name": "Simpson Yellow",
+        "palette": [
+          "#FDD621",
+          "#C1A319",
+          "#77640F",
+          "#2C2505"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "moonlightvision",
+        "name": "Moonlight Vision",
+        "palette": [
+          "#F8D868",
+          "#3890E8",
+          "#305078",
+          "#101010"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "yokaipink",
+        "name": "Yo-kai Pink",
+        "palette": [
+          "#E08AB8",
+          "#AB698C",
+          "#694056",
+          "#271820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "neonorange",
+        "name": "Neon Orange",
+        "palette": [
+          "#FAA005",
+          "#BF7A03",
+          "#754B02",
+          "#2C1C00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "saitamasupergreen",
+        "name": "SAITAMA SUPER GREEN",
+        "palette": [
+          "#16AE85",
+          "#108565",
+          "#0A513E",
+          "#031E17"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "colacolared",
+        "name": "Cola-Cola Red",
+        "palette": [
+          "#F40009",
+          "#BA0006",
+          "#720004",
+          "#2B0001"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "foolsgoldandsilver",
+        "name": "Fool's Gold and Silver",
+        "palette": [
+          "#C5C66D",
+          "#97A1B0",
+          "#585E67",
+          "#232529"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "odysseygold",
+        "name": "Odyssey Gold",
+        "palette": [
+          "#C2A000",
+          "#947A00",
+          "#5B4B00",
+          "#221C00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "travelwood",
+        "name": "Travel Wood",
+        "palette": [
+          "#F8D8B0",
+          "#A08058",
+          "#705030",
+          "#482810"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "neonred",
+        "name": "Neon Red",
+        "palette": [
+          "#FF3C28",
+          "#CC3020",
+          "#7F1E14",
+          "#4C120C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pocketstationver",
+        "name": "PocketStation Ver.",
+        "palette": [
+          "#969687",
+          "#727267",
+          "#46463F",
+          "#1A1A17"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "leprechaungreen",
+        "name": "Leprechaun Green",
+        "palette": [
+          "#378661",
+          "#2A664A",
+          "#193F2D",
+          "#091711"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "aquaticiro",
+        "name": "Aquatic Iro",
+        "palette": [
+          "#A0D8EF",
+          "#2CA9E1",
+          "#3E62AD",
+          "#192F60"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "schoolidolmix",
+        "name": "School Idol Mix",
+        "palette": [
+          "#F39800",
+          "#00A0E9",
+          "#A5469B",
+          "#31152E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "vulnerableblue",
+        "name": "Vulnerable Blue",
+        "palette": [
+          "#3732FF",
+          "#785647",
+          "#C38C73",
+          "#FFB897"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pokedexred",
+        "name": "Pokedex Red",
+        "palette": [
+          "#EA5450",
+          "#B2403D",
+          "#6E2725",
+          "#290E0E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "absorbentandyellow",
+        "name": "Absorbent and Yellow",
+        "palette": [
+          "#FFF752",
+          "#AEC600",
+          "#667400",
+          "#282E00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "nascarver",
+        "name": "NASCAR Ver.",
+        "palette": [
+          "#FFD659",
+          "#E4002B",
+          "#007AC2",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "stoneorange",
+        "name": "Stone Orange",
+        "palette": [
+          "#F6821E",
+          "#BC6316",
+          "#733D0E",
+          "#2B1605"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "someitypink",
+        "name": "Someity Pink",
+        "palette": [
+          "#E50A84",
+          "#AF0764",
+          "#6B043E",
+          "#280117"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "parisgold",
+        "name": "Paris Gold",
+        "palette": [
+          "#D7C378",
+          "#A4955B",
+          "#655B38",
+          "#252215"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ultrablack",
+        "name": "Ultra Black",
+        "palette": [
+          "#4D5263",
+          "#3A3E4B",
+          "#24262E",
+          "#0D0E11"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "hogwartsgoldius",
+        "name": "Hogwarts Goldius",
+        "palette": [
+          "#B6A571",
+          "#8B7E56",
+          "#554D35",
+          "#201D13"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ninjaturtlegreen",
+        "name": "Ninja Turtle Green",
+        "palette": [
+          "#86BC25",
+          "#668F1C",
+          "#3F5811",
+          "#172106"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "nickorange",
+        "name": "Nick Orange",
+        "palette": [
+          "#FF6700",
+          "#CC5200",
+          "#7F3300",
+          "#4C1E00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "namcoidolpink",
+        "name": "Namco Idol Pink",
+        "palette": [
+          "#FF74B8",
+          "#C3588C",
+          "#783656",
+          "#2D1420"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "starcommandgreen",
+        "name": "Star Command Green",
+        "palette": [
+          "#B2E781",
+          "#88B062",
+          "#536C3C",
+          "#1F2816"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "classiclcd",
+        "name": "Classic LCD",
+        "palette": [
+          "#C6CBAD",
+          "#979B84",
+          "#5D5F51",
+          "#22231E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gamegrumporange",
+        "name": "Game Grump Orange",
+        "palette": [
+          "#E9762F",
+          "#B25A23",
+          "#6D3716",
+          "#291408"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "greenscaleveraclassic",
+        "name": "Greenscale Ver. (A classic!)",
+        "palette": [
+          "#9CBE0C",
+          "#6E870A",
+          "#2C6234",
+          "#0C360C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "fruityorange",
+        "name": "Fruity Orange",
+        "palette": [
+          "#F3BF88",
+          "#F08300",
+          "#9F563A",
+          "#241A08"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "vmuver",
+        "name": "VMU Ver.",
+        "palette": [
+          "#88CCA8",
+          "#689C80",
+          "#40604F",
+          "#081480"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pokemonver",
+        "name": "Pokemon Ver.",
+        "palette": [
+          "#F8E8F8",
+          "#F0B088",
+          "#807098",
+          "#181010"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ryuuguusunset",
+        "name": "Ryuuguu Sunset",
+        "palette": [
+          "#FFE43F",
+          "#FD99E1",
+          "#9238BE",
+          "#2B1039"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "angryvolcanover",
+        "name": "Angry Volcano Ver.",
+        "palette": [
+          "#F8B800",
+          "#F83800",
+          "#A81000",
+          "#1C0000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "nokia3310ver",
+        "name": "Nokia 3310 Ver.",
+        "palette": [
+          "#73A684",
+          "#577E64",
+          "#364E3E",
+          "#141D17"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "blossompink",
+        "name": "Blossom Pink",
+        "palette": [
+          "#F09898",
+          "#B77474",
+          "#704747",
+          "#2A1A1A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "billspcscreen",
+        "name": "Bill's PC Screen",
+        "palette": [
+          "#F87800",
+          "#B86000",
+          "#783800",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "neonpink",
+        "name": "Neon Pink",
+        "palette": [
+          "#FF3278",
+          "#CC2860",
+          "#7F193C",
+          "#4C0F24"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "equestrianpurple",
+        "name": "Equestrian Purple",
+        "palette": [
+          "#A672B0",
+          "#7E5786",
+          "#4E3552",
+          "#1D141F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "duracellcopper",
+        "name": "Duracell Copper",
+        "palette": [
+          "#C8895D",
+          "#986847",
+          "#5E402B",
+          "#191A1C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "tropicalstarfall",
+        "name": "Tropical Starfall",
+        "palette": [
+          "#63FDFB",
+          "#EF58F7",
+          "#4344C1",
+          "#141439"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bizarrepink",
+        "name": "Bizarre Pink",
+        "palette": [
+          "#EB008B",
+          "#B3006A",
+          "#6E0041",
+          "#290018"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "goombabrown",
+        "name": "Goomba Brown",
+        "palette": [
+          "#AA593B",
+          "#82442D",
+          "#50291B",
+          "#1D0F0A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "xboxgreen",
+        "name": "Xbox Green",
+        "palette": [
+          "#92C83E",
+          "#6F982F",
+          "#445E1D",
+          "#19230A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "musepink",
+        "name": "Muse Pink",
+        "palette": [
+          "#E4007F",
+          "#B60065",
+          "#72003F",
+          "#440026"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gamatever",
+        "name": "Gamate Ver.",
+        "palette": [
+          "#6BA64A",
+          "#437A63",
+          "#255955",
+          "#12424C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "googleblue",
+        "name": "Google Blue",
+        "palette": [
+          "#4285F4",
+          "#3265BA",
+          "#1F3E72",
+          "#0B172B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "plumbobgreen",
+        "name": "Plumbob Green",
+        "palette": [
+          "#5EEA03",
+          "#47B202",
+          "#2C6E01",
+          "#102900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "swampyogregreen",
+        "name": "Swampy Ogre Green",
+        "palette": [
+          "#C1D62E",
+          "#93A323",
+          "#5A6415",
+          "#222508"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "scoobydoomysteryver",
+        "name": "Scooby-Doo Mystery Ver.",
+        "palette": [
+          "#C6DE31",
+          "#F79321",
+          "#8F59A5",
+          "#2A1A31"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "aqoursblue",
+        "name": "Aqours Blue",
+        "palette": [
+          "#00A0E9",
+          "#0080BA",
+          "#005074",
+          "#003045"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "aegischerry",
+        "name": "Aegis Cherry",
+        "palette": [
+          "#DD3B64",
+          "#A92D4C",
+          "#681B2F",
+          "#270A11"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "halloweenver",
+        "name": "Halloween Ver.",
+        "palette": [
+          "#FFCC00",
+          "#F68C00",
+          "#9540A5",
+          "#2C1331"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "retrobogeda",
+        "name": "Retro Bogeda",
+        "palette": [
+          "#FBFD1B",
+          "#FF6CFF",
+          "#6408FF",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "virtualvision",
+        "name": "Virtual Vision",
+        "palette": [
+          "#4C0000",
+          "#7F0000",
+          "#CC0000",
+          "#FF0000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "arendellewinterblue",
+        "name": "Arendelle Winter Blue",
+        "palette": [
+          "#6CC0E8",
+          "#5292B1",
+          "#325A6D",
+          "#132128"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cherryblossompink",
+        "name": "Cherry Blossom Pink",
+        "palette": [
+          "#F07EB0",
+          "#B76086",
+          "#703B52",
+          "#2A161F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "spongebobyellow",
+        "name": "SpongeBob Yellow",
+        "palette": [
+          "#F7E948",
+          "#C5BA39",
+          "#7B7424",
+          "#4A4515"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "seesblue",
+        "name": "S.E.E.S. Blue",
+        "palette": [
+          "#19D1FF",
+          "#139FC3",
+          "#0B6278",
+          "#04242D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bluestripesver",
+        "name": "Blue Stripes Ver.",
+        "palette": [
+          "#8BD3E1",
+          "#999B9C",
+          "#5A5B5B",
+          "#232424"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bobblunblue",
+        "name": "Bobblun Blue",
+        "palette": [
+          "#1FD1FD",
+          "#179FC1",
+          "#0E6277",
+          "#05242C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "perfectmajinemperor",
+        "name": "Perfect Majin Emperor",
+        "palette": [
+          "#FDC1BF",
+          "#A3B453",
+          "#8550A9",
+          "#271832"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "tamagotchiver",
+        "name": "Tamagotchi Ver.",
+        "palette": [
+          "#F1F0F9",
+          "#B8B7BE",
+          "#717075",
+          "#3C3838"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "1stvisionpastel",
+        "name": "1st Vision Pastel",
+        "palette": [
+          "#EA7CB1",
+          "#7FAF5A",
+          "#385EAD",
+          "#101C33"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "maniaplusgreen",
+        "name": "Mania Plus Green",
+        "palette": [
+          "#79C14E",
+          "#5C933B",
+          "#385A24",
+          "#15220D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "buttercupgreen",
+        "name": "Buttercup Green",
+        "palette": [
+          "#B8E088",
+          "#8CAB68",
+          "#566940",
+          "#202718"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "teamidori",
+        "name": "Tea Midori",
+        "palette": [
+          "#D6E9CA",
+          "#88CB7F",
+          "#028760",
+          "#333631"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "grinchygreen",
+        "name": "Grinchy Green",
+        "palette": [
+          "#B7BE1C",
+          "#8B9115",
+          "#56590D",
+          "#202104"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pocketswitch",
+        "name": "POCKET SWITCH",
+        "palette": [
+          "#B5C69C",
+          "#8D9C7B",
+          "#637251",
+          "#303820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "starbucksgreen",
+        "name": "Starbucks Green",
+        "palette": [
+          "#00704A",
+          "#005538",
+          "#003422",
+          "#00130D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "segatokyoblue",
+        "name": "SEGA Tokyo Blue",
+        "palette": [
+          "#0082D4",
+          "#0063A2",
+          "#003D63",
+          "#001625"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "millionyellow",
+        "name": "MILLION Yellow!",
+        "palette": [
+          "#FFC30B",
+          "#C39508",
+          "#785B05",
+          "#2D2201"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bajablastbeach",
+        "name": "Baja Blast Beach",
+        "palette": [
+          "#DBE441",
+          "#83CCC5",
+          "#4E7A76",
+          "#273D3B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "sonicmegablue",
+        "name": "Sonic Mega Blue",
+        "palette": [
+          "#4084D9",
+          "#3064A5",
+          "#1E3E66",
+          "#0B1726"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "kingdomkeygold",
+        "name": "Kingdom Key Gold",
+        "palette": [
+          "#CAAD32",
+          "#9A8426",
+          "#5F5117",
+          "#231E08"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bajablaststorm",
+        "name": "Baja Blast Storm",
+        "palette": [
+          "#68C2A4",
+          "#4F947D",
+          "#305B4D",
+          "#12221C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "jpopidolsherbet",
+        "name": "J-Pop Idol Sherbet",
+        "palette": [
+          "#F19DB5",
+          "#5BBEE5",
+          "#812990",
+          "#260C2B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "spookypurple",
+        "name": "Spooky Purple",
+        "palette": [
+          "#9E7CD2",
+          "#785EA0",
+          "#4A3A62",
+          "#1B1525"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "holoblue",
+        "name": "holoblue",
+        "palette": [
+          "#B0EDFA",
+          "#49C4F2",
+          "#3368D3",
+          "#063F5C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "sanriopink",
+        "name": "Sanrio Pink",
+        "palette": [
+          "#F9C2D0",
+          "#F485A1",
+          "#E74B5A",
+          "#83534D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "investigationyellow",
+        "name": "Investigation Yellow",
+        "palette": [
+          "#FFF919",
+          "#C3BE13",
+          "#78750B",
+          "#2D2B04"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "sidemgreen",
+        "name": "SideM Green",
+        "palette": [
+          "#0FBE94",
+          "#0B9171",
+          "#075945",
+          "#02211A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "crunchyrollorange",
+        "name": "Crunchyroll Orange",
+        "palette": [
+          "#F47522",
+          "#C35D1B",
+          "#7A3A11",
+          "#49230A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "phantomred",
+        "name": "Phantom Red",
+        "palette": [
+          "#FD2639",
+          "#C11D2B",
+          "#77111A",
+          "#2C060A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "nijigasakiorange",
+        "name": "Nijigasaki Orange",
+        "palette": [
+          "#F39800",
+          "#B97400",
+          "#724700",
+          "#2A1A00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "christmasver",
+        "name": "Christmas Ver.",
+        "palette": [
+          "#CBB96A",
+          "#20A465",
+          "#A03232",
+          "#300F0F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "megamanvver",
+        "name": "Mega Man V Ver.",
+        "palette": [
+          "#D0D0D0",
+          "#70A0E0",
+          "#406890",
+          "#082030"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "rockyvalleyholiday",
+        "name": "Rocky-Valley Holiday",
+        "palette": [
+          "#C0F0F8",
+          "#D89078",
+          "#805850",
+          "#204008"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "wonderswanver",
+        "name": "WonderSwan Ver.",
+        "palette": [
+          "#FEFEFE",
+          "#C2C2C2",
+          "#686868",
+          "#1D1D1D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bandainamcotricolor",
+        "name": "Bandai Namco Tricolor",
+        "palette": [
+          "#F6B700",
+          "#DF4F61",
+          "#0069B1",
+          "#001F35"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "steamgray",
+        "name": "Steam Gray",
+        "palette": [
+          "#C5C3C0",
+          "#969592",
+          "#5C5B5A",
+          "#222221"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "eeveebrown",
+        "name": "Eevee Brown",
+        "palette": [
+          "#C88D32",
+          "#986B26",
+          "#5E4217",
+          "#231808"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "drpepperred",
+        "name": "Dr Pepper Red",
+        "palette": [
+          "#8A2231",
+          "#691A25",
+          "#401017",
+          "#180608"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "nightvisiongreen",
+        "name": "Nightvision Green",
+        "palette": [
+          "#122108",
+          "#305916",
+          "#4E9223",
+          "#66BF2F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "fairytailred",
+        "name": "Fairy Tail Red",
+        "palette": [
+          "#C7000A",
+          "#980007",
+          "#5D0004",
+          "#230001"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "invincibleblue",
+        "name": "Invincible Blue",
+        "palette": [
+          "#39C9EB",
+          "#2B99B3",
+          "#1A5E6E",
+          "#0A2329"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "advancedindigo",
+        "name": "Advanced Indigo",
+        "palette": [
+          "#796ABA",
+          "#5C518E",
+          "#383157",
+          "#151220"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "tokyodisneymagic",
+        "name": "Tokyo Disney Magic",
+        "palette": [
+          "#7EC4ED",
+          "#EF5697",
+          "#00529F",
+          "#00182F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bluebomberazure",
+        "name": "Blue Bomber Azure",
+        "palette": [
+          "#43BEFF",
+          "#3391C3",
+          "#1F5978",
+          "#0B212D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "akb48pink",
+        "name": "AKB48 Pink",
+        "palette": [
+          "#F676A6",
+          "#BC5A7E",
+          "#73374E",
+          "#2B141D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "superballivory",
+        "name": "Superball Ivory",
+        "palette": [
+          "#EEF0BC",
+          "#BCBC8A",
+          "#828250",
+          "#646432"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "glitchyblue",
+        "name": "Glitchy Blue",
+        "palette": [
+          "#3C7AE6",
+          "#2D5DAF",
+          "#1C396C",
+          "#0A1528"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cheetoorange",
+        "name": "Cheeto Orange",
+        "palette": [
+          "#E57600",
+          "#AF5A00",
+          "#6B3700",
+          "#281400"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "doraemontricolor",
+        "name": "Doraemon Tricolor",
+        "palette": [
+          "#FFE800",
+          "#00A8F4",
+          "#E60000",
+          "#450000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "funimationmelon",
+        "name": "Funimation Melon",
+        "palette": [
+          "#96FF00",
+          "#FF149F",
+          "#5B0BB5",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "limemidori",
+        "name": "Lime Midori",
+        "palette": [
+          "#E0EBAF",
+          "#AACF53",
+          "#7B8D42",
+          "#475950"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "androidgreen",
+        "name": "Android Green",
+        "palette": [
+          "#3DDC84",
+          "#2EA864",
+          "#1C673E",
+          "#0A2617"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "strawhatred",
+        "name": "Straw Hat Red",
+        "palette": [
+          "#F8523C",
+          "#BD3E2D",
+          "#74261C",
+          "#2B0E0A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "legendarysupersaiyan",
+        "name": "Legendary Super Saiyan",
+        "palette": [
+          "#A6DA5B",
+          "#7EA645",
+          "#4E662A",
+          "#1D2610"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "silvershiro",
+        "name": "Silver Shiro",
+        "palette": [
+          "#DCDDDD",
+          "#AFAFB0",
+          "#727171",
+          "#383C3C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "perfectedultrainstinct",
+        "name": "Perfected Ultra Instinct",
+        "palette": [
+          "#C0C8D8",
+          "#9298A5",
+          "#5A5E65",
+          "#212326"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dmgver",
+        "name": "DMG Ver.",
+        "palette": [
+          "#7F860F",
+          "#577C44",
+          "#365D48",
+          "#2A453B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "olympicgold",
+        "name": "Olympic Gold",
+        "palette": [
+          "#D5B624",
+          "#A28B1B",
+          "#645510",
+          "#252006"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "timelessgoldandred",
+        "name": "Timeless Gold and Red",
+        "palette": [
+          "#C8AA50",
+          "#B91E23",
+          "#6C1114",
+          "#2B0708"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "duolingogreen",
+        "name": "Duolingo Green",
+        "palette": [
+          "#58CC02",
+          "#439C01",
+          "#296000",
+          "#0F2400"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "neogeopocketver",
+        "name": "Neo Geo Pocket Ver.",
+        "palette": [
+          "#F0F0F0",
+          "#B0B0B0",
+          "#707070",
+          "#101010"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bedrockcavemanvision",
+        "name": "Bedrock Caveman Vision",
+        "palette": [
+          "#FF7F00",
+          "#009EB8",
+          "#005C6C",
+          "#00252B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "wintericyblue",
+        "name": "Winter Icy Blue",
+        "palette": [
+          "#7FE3F5",
+          "#61ADBB",
+          "#3B6A73",
+          "#16282B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "winterchristmas",
+        "name": "Winter Christmas",
+        "palette": [
+          "#DDDDDD",
+          "#65B08F",
+          "#AE3B40",
+          "#341113"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dragonballorange",
+        "name": "Dragon Ball Orange",
+        "palette": [
+          "#F0831D",
+          "#B76416",
+          "#703D0D",
+          "#2A1705"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "idolworldtricolor",
+        "name": "IDOL WORLD TRICOLOR!!!",
+        "palette": [
+          "#FFC30B",
+          "#F34F6D",
+          "#2681C8",
+          "#0B263C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "treasuregold",
+        "name": "Treasure Gold",
+        "palette": [
+          "#CBB524",
+          "#9B8A1B",
+          "#5F5510",
+          "#231F06"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "timingherover",
+        "name": "Timing Hero Ver.",
+        "palette": [
+          "#CCCC99",
+          "#8C994C",
+          "#4C6718",
+          "#202E00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "neonpurple",
+        "name": "Neon Purple",
+        "palette": [
+          "#B400E6",
+          "#8900AF",
+          "#54006C",
+          "#1F0028"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "beijingblue",
+        "name": "Beijing Blue",
+        "palette": [
+          "#3AADDD",
+          "#2C84A9",
+          "#1B5168",
+          "#0A1E27"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "linksawakeningdxver",
+        "name": "Link's Awakening DX Ver.",
+        "palette": [
+          "#F8F8B0",
+          "#78C078",
+          "#688840",
+          "#583820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "3dsvirtualconsolegreen",
+        "name": "3DS Virtual Console Green",
+        "palette": [
+          "#BDFF21",
+          "#9CEF29",
+          "#5A8C42",
+          "#4A4A4A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "supervisionver",
+        "name": "Supervision Ver.",
+        "palette": [
+          "#7CC67C",
+          "#54A68C",
+          "#2C6264",
+          "#0C322C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "animateblue",
+        "name": "animate blue",
+        "palette": [
+          "#385EAA",
+          "#2A4782",
+          "#1A2C50",
+          "#09101D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "3dsvirtualconsolever",
+        "name": "3DS Virtual Console Ver.",
+        "palette": [
+          "#CECEAD",
+          "#A5A58C",
+          "#6B6B52",
+          "#292918"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "rockstarorange",
+        "name": "Rockstar Orange",
+        "palette": [
+          "#FCAF17",
+          "#C08511",
+          "#76520A",
+          "#2C1E04"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "saiyanbeastsilver",
+        "name": "Saiyan Beast Silver",
+        "palette": [
+          "#969BAF",
+          "#727685",
+          "#464852",
+          "#1A1B1E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "sunnypassionparadise",
+        "name": "Sunny Passion Paradise",
+        "palette": [
+          "#F0BA40",
+          "#E06846",
+          "#1E6CAE",
+          "#092034"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "teamrocketred",
+        "name": "Team Rocket Red",
+        "palette": [
+          "#B83020",
+          "#8C2418",
+          "#56160F",
+          "#200805"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dekualphaemerald",
+        "name": "Deku Alpha Emerald",
+        "palette": [
+          "#38AD9D",
+          "#2A8478",
+          "#1A5149",
+          "#091E1B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}
