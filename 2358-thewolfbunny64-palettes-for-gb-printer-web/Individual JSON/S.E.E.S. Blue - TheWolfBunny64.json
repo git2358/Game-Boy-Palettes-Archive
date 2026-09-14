@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "seesblue",
+        "name": "S.E.E.S. Blue",
+        "palette": [
+          "#19D1FF",
+          "#139FC3",
+          "#0B6278",
+          "#04242D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

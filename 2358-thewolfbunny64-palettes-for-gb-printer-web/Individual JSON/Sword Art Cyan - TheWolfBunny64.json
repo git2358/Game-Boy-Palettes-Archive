@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "swordartcyan",
+        "name": "Sword Art Cyan",
+        "palette": [
+          "#59C3E2",
+          "#4495AC",
+          "#295B6A",
+          "#0F2227"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

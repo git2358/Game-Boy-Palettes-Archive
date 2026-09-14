@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "vmuver",
+        "name": "VMU Ver.",
+        "palette": [
+          "#88CCA8",
+          "#689C80",
+          "#40604F",
+          "#081480"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

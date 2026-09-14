@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "surveycorpsbrown",
+        "name": "Survey Corps Brown",
+        "palette": [
+          "#AB7D57",
+          "#825F42",
+          "#503A28",
+          "#1E160F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "shenrongreen",
+        "name": "Shenron Green",
+        "palette": [
+          "#5AC34A",
+          "#449538",
+          "#2A5B22",
+          "#0F220D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

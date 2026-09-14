@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "saitamasuperblue",
+        "name": "SAITAMA SUPER BLUE",
+        "palette": [
+          "#277ABC",
+          "#1D5D8F",
+          "#123958",
+          "#061521"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

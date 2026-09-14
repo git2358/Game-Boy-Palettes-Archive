@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "puyopuyogreen",
+        "name": "Puyo Puyo Green",
+        "palette": [
+          "#48E236",
+          "#37AC29",
+          "#216A19",
+          "#0C2709"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

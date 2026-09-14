@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "spiderversered",
+        "name": "Spider-Verse Red",
+        "palette": [
+          "#D4134C",
+          "#A20E3A",
+          "#630823",
+          "#25030D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

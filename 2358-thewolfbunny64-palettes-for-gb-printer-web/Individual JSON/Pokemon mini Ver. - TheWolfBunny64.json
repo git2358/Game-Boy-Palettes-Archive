@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pokemonminiver",
+        "name": "Pokemon mini Ver.",
+        "palette": [
+          "#A5BEA5",
+          "#7E917E",
+          "#4D594D",
+          "#1D211D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

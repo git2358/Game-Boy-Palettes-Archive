@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "saintsnowred",
+        "name": "Saint Snow Red",
+        "palette": [
+          "#BF3936",
+          "#922B29",
+          "#591A19",
+          "#210A09"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

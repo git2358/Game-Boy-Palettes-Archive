@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "timingherover",
+        "name": "Timing Hero Ver.",
+        "palette": [
+          "#CCCC99",
+          "#8C994C",
+          "#4C6718",
+          "#202E00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "rockstarorange",
+        "name": "Rockstar Orange",
+        "palette": [
+          "#FCAF17",
+          "#C08511",
+          "#76520A",
+          "#2C1E04"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

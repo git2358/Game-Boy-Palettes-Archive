@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "shiningpearlpink",
+        "name": "Shining Pearl Pink",
+        "palette": [
+          "#D28EA0",
+          "#A06C7A",
+          "#62424B",
+          "#25191C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

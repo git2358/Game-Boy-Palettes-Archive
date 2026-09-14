@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "silvershiro",
+        "name": "Silver Shiro",
+        "palette": [
+          "#DCDDDD",
+          "#AFAFB0",
+          "#727171",
+          "#383C3C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

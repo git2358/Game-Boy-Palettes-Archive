@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "ryuuguusunset",
+        "name": "Ryuuguu Sunset",
+        "palette": [
+          "#FFE43F",
+          "#FD99E1",
+          "#9238BE",
+          "#2B1039"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

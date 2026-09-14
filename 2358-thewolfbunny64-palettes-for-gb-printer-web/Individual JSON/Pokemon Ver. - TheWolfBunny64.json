@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pokemonver",
+        "name": "Pokemon Ver.",
+        "palette": [
+          "#F8E8F8",
+          "#F0B088",
+          "#807098",
+          "#181010"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

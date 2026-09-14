@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pokedexred",
+        "name": "Pokedex Red",
+        "palette": [
+          "#EA5450",
+          "#B2403D",
+          "#6E2725",
+          "#290E0E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

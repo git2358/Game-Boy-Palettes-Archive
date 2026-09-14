@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "vulnerableblue",
+        "name": "Vulnerable Blue",
+        "palette": [
+          "#3732FF",
+          "#785647",
+          "#C38C73",
+          "#FFB897"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

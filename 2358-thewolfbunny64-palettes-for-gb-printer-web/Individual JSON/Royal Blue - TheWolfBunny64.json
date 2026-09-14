@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "royalblue",
+        "name": "Royal Blue",
+        "palette": [
+          "#4655F5",
+          "#3540BB",
+          "#202773",
+          "#0C0E2B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

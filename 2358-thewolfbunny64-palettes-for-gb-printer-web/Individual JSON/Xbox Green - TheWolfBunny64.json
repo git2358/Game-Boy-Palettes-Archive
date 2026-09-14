@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "xboxgreen",
+        "name": "Xbox Green",
+        "palette": [
+          "#92C83E",
+          "#6F982F",
+          "#445E1D",
+          "#19230A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "spongebobyellow",
+        "name": "SpongeBob Yellow",
+        "palette": [
+          "#F7E948",
+          "#C5BA39",
+          "#7B7424",
+          "#4A4515"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

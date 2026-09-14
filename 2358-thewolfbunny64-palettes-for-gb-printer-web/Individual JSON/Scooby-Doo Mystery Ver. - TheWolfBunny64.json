@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "scoobydoomysteryver",
+        "name": "Scooby-Doo Mystery Ver.",
+        "palette": [
+          "#C6DE31",
+          "#F79321",
+          "#8F59A5",
+          "#2A1A31"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "wintericyblue",
+        "name": "Winter Icy Blue",
+        "palette": [
+          "#7FE3F5",
+          "#61ADBB",
+          "#3B6A73",
+          "#16282B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

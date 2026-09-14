@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "spritegreen",
+        "name": "Sprite Green",
+        "palette": [
+          "#009B4E",
+          "#00763B",
+          "#004824",
+          "#001B0D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

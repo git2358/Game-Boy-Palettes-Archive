@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "starbucksgreen",
+        "name": "Starbucks Green",
+        "palette": [
+          "#00704A",
+          "#005538",
+          "#003422",
+          "#00130D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

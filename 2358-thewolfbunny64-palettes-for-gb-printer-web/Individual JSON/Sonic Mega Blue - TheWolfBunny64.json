@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "sonicmegablue",
+        "name": "Sonic Mega Blue",
+        "palette": [
+          "#4084D9",
+          "#3064A5",
+          "#1E3E66",
+          "#0B1726"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

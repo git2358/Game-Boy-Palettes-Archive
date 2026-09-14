@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "supervisionver",
+        "name": "Supervision Ver.",
+        "palette": [
+          "#7CC67C",
+          "#54A68C",
+          "#2C6264",
+          "#0C322C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pokemonpinballver",
+        "name": "Pokemon Pinball Ver.",
+        "palette": [
+          "#E8F8B8",
+          "#A0B050",
+          "#786030",
+          "#181820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

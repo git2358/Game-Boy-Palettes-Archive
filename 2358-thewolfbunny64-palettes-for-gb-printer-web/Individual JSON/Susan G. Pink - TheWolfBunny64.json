@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "susangpink",
+        "name": "Susan G. Pink",
+        "palette": [
+          "#EA77AF",
+          "#B25A85",
+          "#6E3852",
+          "#29151E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

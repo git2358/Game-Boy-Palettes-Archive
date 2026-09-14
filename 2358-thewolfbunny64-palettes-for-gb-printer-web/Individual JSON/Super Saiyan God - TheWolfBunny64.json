@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "supersaiyangod",
+        "name": "Super Saiyan God",
+        "palette": [
+          "#D70362",
+          "#A4024A",
+          "#65012E",
+          "#250011"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

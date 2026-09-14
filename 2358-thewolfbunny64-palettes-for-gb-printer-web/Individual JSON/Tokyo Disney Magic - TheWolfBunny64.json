@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "tokyodisneymagic",
+        "name": "Tokyo Disney Magic",
+        "palette": [
+          "#7EC4ED",
+          "#EF5697",
+          "#00529F",
+          "#00182F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "wandapink",
+        "name": "Wanda Pink",
+        "palette": [
+          "#D84C9F",
+          "#A53A79",
+          "#65234A",
+          "#260D1C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "walmartdiscountblue",
+        "name": "Walmart Discount Blue",
+        "palette": [
+          "#0071DC",
+          "#0056A8",
+          "#003567",
+          "#001326"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

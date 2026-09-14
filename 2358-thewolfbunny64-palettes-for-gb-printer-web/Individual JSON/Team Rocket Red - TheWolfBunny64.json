@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "teamrocketred",
+        "name": "Team Rocket Red",
+        "palette": [
+          "#B83020",
+          "#8C2418",
+          "#56160F",
+          "#200805"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

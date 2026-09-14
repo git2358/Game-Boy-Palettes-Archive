@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "radiantsmileramp",
+        "name": "RADIANT SMILE RAMP",
+        "palette": [
+          "#FFF89B",
+          "#01B3C4",
+          "#E6016B",
+          "#1B1C81"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

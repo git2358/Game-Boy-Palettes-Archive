@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "yoshiegggreen",
+        "name": "Yoshi Egg Green",
+        "palette": [
+          "#66C430",
+          "#4E9524",
+          "#305C16",
+          "#112208"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

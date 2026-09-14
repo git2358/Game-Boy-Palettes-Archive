@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "yokaiblue",
+        "name": "Yo-kai Blue",
+        "palette": [
+          "#33B6EA",
+          "#278BB2",
+          "#18556E",
+          "#092029"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

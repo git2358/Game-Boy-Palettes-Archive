@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "seikotimeryellow",
+        "name": "SEIKO Timer Yellow",
+        "palette": [
+          "#FCC800",
+          "#C09800",
+          "#765E00",
+          "#2C2300"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

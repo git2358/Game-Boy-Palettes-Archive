@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "someitypink",
+        "name": "Someity Pink",
+        "palette": [
+          "#E50A84",
+          "#AF0764",
+          "#6B043E",
+          "#280117"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "spotifygreen",
+        "name": "Spotify Green",
+        "palette": [
+          "#1ED760",
+          "#16A449",
+          "#0E652D",
+          "#052510"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

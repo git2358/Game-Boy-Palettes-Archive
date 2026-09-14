@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "sidemgreen",
+        "name": "SideM Green",
+        "palette": [
+          "#0FBE94",
+          "#0B9171",
+          "#075945",
+          "#02211A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

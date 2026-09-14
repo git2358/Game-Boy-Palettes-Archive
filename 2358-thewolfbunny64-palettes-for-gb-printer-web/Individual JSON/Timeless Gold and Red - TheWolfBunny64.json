@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "timelessgoldandred",
+        "name": "Timeless Gold and Red",
+        "palette": [
+          "#C8AA50",
+          "#B91E23",
+          "#6C1114",
+          "#2B0708"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

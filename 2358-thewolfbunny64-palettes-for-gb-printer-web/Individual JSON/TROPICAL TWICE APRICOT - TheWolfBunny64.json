@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "tropicaltwiceapricot",
+        "name": "TROPICAL TWICE APRICOT",
+        "palette": [
+          "#FCC89B",
+          "#FF5FA2",
+          "#96375F",
+          "#3C1626"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

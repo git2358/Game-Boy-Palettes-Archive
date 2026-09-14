@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "poketchver",
+        "name": "Poketch Ver.",
+        "palette": [
+          "#70B070",
+          "#508050",
+          "#385030",
+          "#102818"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

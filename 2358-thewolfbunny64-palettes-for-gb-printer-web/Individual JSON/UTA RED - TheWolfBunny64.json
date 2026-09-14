@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "utared",
+        "name": "UTA RED",
+        "palette": [
+          "#E24465",
+          "#AC344D",
+          "#6A202F",
+          "#270B11"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "virtualvision",
+        "name": "Virtual Vision",
+        "palette": [
+          "#4C0000",
+          "#7F0000",
+          "#CC0000",
+          "#FF0000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

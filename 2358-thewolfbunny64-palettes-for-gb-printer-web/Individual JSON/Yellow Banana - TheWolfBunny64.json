@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "yellowbanana",
+        "name": "Yellow Banana",
+        "palette": [
+          "#FFDF08",
+          "#DE9E00",
+          "#AD6939",
+          "#734900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

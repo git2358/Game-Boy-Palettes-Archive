@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "superstarpink",
+        "name": "Super Star Pink",
+        "palette": [
+          "#F3A5AA",
+          "#B97E82",
+          "#724D4F",
+          "#2A1D1D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

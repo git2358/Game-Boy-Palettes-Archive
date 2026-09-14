@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "tigergamecomver",
+        "name": "Tiger Game.com Ver.",
+        "palette": [
+          "#A7BF6B",
+          "#6F8F4F",
+          "#0F4F2F",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

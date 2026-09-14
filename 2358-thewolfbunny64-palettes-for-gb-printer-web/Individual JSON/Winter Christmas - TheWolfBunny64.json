@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "winterchristmas",
+        "name": "Winter Christmas",
+        "palette": [
+          "#DDDDDD",
+          "#65B08F",
+          "#AE3B40",
+          "#341113"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

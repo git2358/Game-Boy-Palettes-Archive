@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "smurfyblue",
+        "name": "Smurfy Blue",
+        "palette": [
+          "#2CB9EF",
+          "#218DB6",
+          "#145770",
+          "#07202A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

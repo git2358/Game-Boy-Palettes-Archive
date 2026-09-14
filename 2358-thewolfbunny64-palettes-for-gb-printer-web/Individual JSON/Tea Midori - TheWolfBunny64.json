@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "teamidori",
+        "name": "Tea Midori",
+        "palette": [
+          "#D6E9CA",
+          "#88CB7F",
+          "#028760",
+          "#333631"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

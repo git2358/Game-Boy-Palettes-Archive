@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "spookypurple",
+        "name": "Spooky Purple",
+        "palette": [
+          "#9E7CD2",
+          "#785EA0",
+          "#4A3A62",
+          "#1B1525"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

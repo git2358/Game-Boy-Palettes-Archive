@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "sanriopink",
+        "name": "Sanrio Pink",
+        "palette": [
+          "#F9C2D0",
+          "#F485A1",
+          "#E74B5A",
+          "#83534D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

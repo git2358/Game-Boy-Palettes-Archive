@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "shinyskyblue",
+        "name": "SHINY Sky Blue",
+        "palette": [
+          "#8DBBFF",
+          "#6B8EC3",
+          "#425878",
+          "#18212D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

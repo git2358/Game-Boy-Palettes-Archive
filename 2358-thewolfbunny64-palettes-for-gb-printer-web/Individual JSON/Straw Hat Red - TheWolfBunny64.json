@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "strawhatred",
+        "name": "Straw Hat Red",
+        "palette": [
+          "#F8523C",
+          "#BD3E2D",
+          "#74261C",
+          "#2B0E0A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "stoneorange",
+        "name": "Stone Orange",
+        "palette": [
+          "#F6821E",
+          "#BC6316",
+          "#733D0E",
+          "#2B1605"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

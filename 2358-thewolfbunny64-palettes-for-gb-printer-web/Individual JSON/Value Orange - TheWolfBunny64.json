@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "valueorange",
+        "name": "Value Orange",
+        "palette": [
+          "#E68E00",
+          "#AF6C00",
+          "#6C4200",
+          "#281900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

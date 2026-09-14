@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "sakurapink",
+        "name": "Sakura Pink",
+        "palette": [
+          "#FDEFF2",
+          "#EEBBCB",
+          "#E7609E",
+          "#A25768"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "yokaipink",
+        "name": "Yo-kai Pink",
+        "palette": [
+          "#E08AB8",
+          "#AB698C",
+          "#694056",
+          "#271820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

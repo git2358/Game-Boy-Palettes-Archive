@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "supersaiyan3",
+        "name": "Super Saiyan 3",
+        "palette": [
+          "#F8C838",
+          "#BD982A",
+          "#745E1A",
+          "#2B2309"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

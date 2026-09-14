@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "wisteriamurasaki",
+        "name": "Wisteria Murasaki",
+        "palette": [
+          "#DBD0E6",
+          "#A59ACA",
+          "#7058A3",
+          "#2E2930"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

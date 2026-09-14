@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "simpsonyellow",
+        "name": "Simpson Yellow",
+        "palette": [
+          "#FDD621",
+          "#C1A319",
+          "#77640F",
+          "#2C2505"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

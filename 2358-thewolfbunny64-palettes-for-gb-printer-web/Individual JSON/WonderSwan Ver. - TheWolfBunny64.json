@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "wonderswanver",
+        "name": "WonderSwan Ver.",
+        "palette": [
+          "#FEFEFE",
+          "#C2C2C2",
+          "#686868",
+          "#1D1D1D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

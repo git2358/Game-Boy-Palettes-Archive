@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "tokyored",
+        "name": "Tokyo Red",
+        "palette": [
+          "#B11D33",
+          "#871626",
+          "#530D17",
+          "#1F0508"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

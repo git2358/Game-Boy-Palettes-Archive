@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "prettyguardiangold",
+        "name": "Pretty Guardian Gold",
+        "palette": [
+          "#B4AA82",
+          "#898263",
+          "#54503D",
+          "#1F1E16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

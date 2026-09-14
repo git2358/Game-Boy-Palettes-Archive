@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "superfamicomsupreme",
+        "name": "Super Famicom Supreme",
+        "palette": [
+          "#FEDA5A",
+          "#44AC71",
+          "#D94040",
+          "#0846BA"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

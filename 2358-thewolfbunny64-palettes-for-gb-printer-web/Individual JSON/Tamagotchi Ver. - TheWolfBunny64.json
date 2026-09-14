@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "tamagotchiver",
+        "name": "Tamagotchi Ver.",
+        "palette": [
+          "#F1F0F9",
+          "#B8B7BE",
+          "#717075",
+          "#3C3838"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

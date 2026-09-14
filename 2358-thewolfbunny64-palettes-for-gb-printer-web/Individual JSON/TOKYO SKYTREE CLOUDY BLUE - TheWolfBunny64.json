@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "tokyoskytreecloudyblue",
+        "name": "TOKYO SKYTREE CLOUDY BLUE",
+        "palette": [
+          "#82B5C7",
+          "#638A98",
+          "#3D555D",
+          "#161F23"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "ultrablack",
+        "name": "Ultra Black",
+        "palette": [
+          "#4D5263",
+          "#3A3E4B",
+          "#24262E",
+          "#0D0E11"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

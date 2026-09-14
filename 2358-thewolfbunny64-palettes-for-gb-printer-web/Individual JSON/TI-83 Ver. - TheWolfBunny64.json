@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "ti83ver",
+        "name": "TI-83 Ver.",
+        "palette": [
+          "#9CAA8C",
+          "#77826B",
+          "#495041",
+          "#1B1D18"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "retrobogeda",
+        "name": "Retro Bogeda",
+        "palette": [
+          "#FBFD1B",
+          "#FF6CFF",
+          "#6408FF",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

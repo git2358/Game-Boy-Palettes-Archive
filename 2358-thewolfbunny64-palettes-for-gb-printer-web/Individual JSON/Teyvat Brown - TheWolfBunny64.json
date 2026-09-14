@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "teyvatbrown",
+        "name": "Teyvat Brown",
+        "palette": [
+          "#B89469",
+          "#8C7150",
+          "#564531",
+          "#201A12"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "treasuregold",
+        "name": "Treasure Gold",
+        "palette": [
+          "#CBB524",
+          "#9B8A1B",
+          "#5F5510",
+          "#231F06"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "swampyogregreen",
+        "name": "Swampy Ogre Green",
+        "palette": [
+          "#C1D62E",
+          "#93A323",
+          "#5A6415",
+          "#222508"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

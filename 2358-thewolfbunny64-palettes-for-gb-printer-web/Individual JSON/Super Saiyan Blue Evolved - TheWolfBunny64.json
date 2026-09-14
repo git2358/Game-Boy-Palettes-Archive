@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "supersaiyanblueevolved",
+        "name": "Super Saiyan Blue Evolved",
+        "palette": [
+          "#1B97D1",
+          "#14739F",
+          "#0C4762",
+          "#041A24"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "scarlettgreen",
+        "name": "Scarlett Green",
+        "palette": [
+          "#9BF00B",
+          "#76B708",
+          "#487005",
+          "#1B2A01"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

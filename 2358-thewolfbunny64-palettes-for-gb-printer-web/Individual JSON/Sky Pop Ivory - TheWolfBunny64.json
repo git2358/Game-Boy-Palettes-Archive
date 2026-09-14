@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "skypopivory",
+        "name": "Sky Pop Ivory",
+        "palette": [
+          "#E5E0B8",
+          "#BEBB95",
+          "#86825C",
+          "#525025"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

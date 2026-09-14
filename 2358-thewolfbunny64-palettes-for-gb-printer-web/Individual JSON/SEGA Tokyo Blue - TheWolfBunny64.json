@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "segatokyoblue",
+        "name": "SEGA Tokyo Blue",
+        "palette": [
+          "#0082D4",
+          "#0063A2",
+          "#003D63",
+          "#001625"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

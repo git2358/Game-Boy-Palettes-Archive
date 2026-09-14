@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "sailorspinachgreen",
+        "name": "Sailor Spinach Green",
+        "palette": [
+          "#7BB03C",
+          "#5E862D",
+          "#39521C",
+          "#151F0A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

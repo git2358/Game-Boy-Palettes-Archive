@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "yokaipurple",
+        "name": "Yo-kai Purple",
+        "palette": [
+          "#938AC1",
+          "#706993",
+          "#45405A",
+          "#191822"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

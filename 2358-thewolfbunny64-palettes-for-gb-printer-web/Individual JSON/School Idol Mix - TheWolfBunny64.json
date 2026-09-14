@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "schoolidolmix",
+        "name": "School Idol Mix",
+        "palette": [
+          "#F39800",
+          "#00A0E9",
+          "#A5469B",
+          "#31152E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

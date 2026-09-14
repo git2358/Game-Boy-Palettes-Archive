@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "steamgray",
+        "name": "Steam Gray",
+        "palette": [
+          "#C5C3C0",
+          "#969592",
+          "#5C5B5A",
+          "#222221"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "wonderpurple",
+        "name": "Wonder Purple",
+        "palette": [
+          "#E658DF",
+          "#B846B2",
+          "#732C6F",
+          "#451A42"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}
