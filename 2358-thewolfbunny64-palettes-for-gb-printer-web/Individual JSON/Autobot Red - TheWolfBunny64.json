@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "autobotred",
+        "name": "Autobot Red",
+        "palette": [
+          "#C31F3C",
+          "#95172D",
+          "#5B0E1C",
+          "#22050A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

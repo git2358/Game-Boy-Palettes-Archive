@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "collectionofsagaver",
+        "name": "COLLECTION of SaGa Ver.",
+        "palette": [
+          "#B2C0A8",
+          "#769A67",
+          "#345D51",
+          "#041820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

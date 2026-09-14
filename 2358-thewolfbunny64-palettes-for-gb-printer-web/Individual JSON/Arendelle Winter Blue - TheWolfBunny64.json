@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "arendellewinterblue",
+        "name": "Arendelle Winter Blue",
+        "palette": [
+          "#6CC0E8",
+          "#5292B1",
+          "#325A6D",
+          "#132128"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dekualphaemerald",
+        "name": "Deku Alpha Emerald",
+        "palette": [
+          "#38AD9D",
+          "#2A8478",
+          "#1A5149",
+          "#091E1B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "crashorange",
+        "name": "Crash Orange",
+        "palette": [
+          "#F37C30",
+          "#B95E24",
+          "#723A16",
+          "#2A1508"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "cardcaptorpink",
+        "name": "Cardcaptor Pink",
+        "palette": [
+          "#F2F4F7",
+          "#EAC3D6",
+          "#E10E82",
+          "#430427"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

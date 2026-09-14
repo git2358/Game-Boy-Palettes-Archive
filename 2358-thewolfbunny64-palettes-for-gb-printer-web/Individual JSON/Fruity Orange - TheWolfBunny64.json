@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "fruityorange",
+        "name": "Fruity Orange",
+        "palette": [
+          "#F3BF88",
+          "#F08300",
+          "#9F563A",
+          "#241A08"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

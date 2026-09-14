@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "animeexpored",
+        "name": "Anime Expo Red",
+        "palette": [
+          "#EE3B33",
+          "#B62D27",
+          "#701B18",
+          "#2A0A09"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

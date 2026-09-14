@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "classiclcd",
+        "name": "Classic LCD",
+        "palette": [
+          "#C6CBAD",
+          "#979B84",
+          "#5D5F51",
+          "#22231E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

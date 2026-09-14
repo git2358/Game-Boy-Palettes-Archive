@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bluestripesver",
+        "name": "Blue Stripes Ver.",
+        "palette": [
+          "#8BD3E1",
+          "#999B9C",
+          "#5A5B5B",
+          "#232424"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

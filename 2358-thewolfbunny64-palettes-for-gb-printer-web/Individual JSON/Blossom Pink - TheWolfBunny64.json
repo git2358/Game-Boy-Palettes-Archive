@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "blossompink",
+        "name": "Blossom Pink",
+        "palette": [
+          "#F09898",
+          "#B77474",
+          "#704747",
+          "#2A1A1A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

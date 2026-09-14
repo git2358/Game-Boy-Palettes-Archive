@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "anaskyblue",
+        "name": "ANA Sky Blue",
+        "palette": [
+          "#00B3F0",
+          "#0088B7",
+          "#005470",
+          "#001F2A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

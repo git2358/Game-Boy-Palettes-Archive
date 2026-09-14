@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "ariseblue",
+        "name": "A-RISE BLUE",
+        "palette": [
+          "#30559C",
+          "#244177",
+          "#162849",
+          "#080F1B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

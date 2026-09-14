@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "furyblue",
+        "name": "Fury Blue",
+        "palette": [
+          "#2B5F98",
+          "#204874",
+          "#142C47",
+          "#07101A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

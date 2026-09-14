@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "duolingogreen",
+        "name": "Duolingo Green",
+        "palette": [
+          "#58CC02",
+          "#439C01",
+          "#296000",
+          "#0F2400"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

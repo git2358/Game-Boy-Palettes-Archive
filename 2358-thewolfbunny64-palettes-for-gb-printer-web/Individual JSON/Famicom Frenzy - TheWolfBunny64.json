@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "famicomfrenzy",
+        "name": "Famicom Frenzy",
+        "palette": [
+          "#EFECDA",
+          "#D9BE72",
+          "#A32135",
+          "#231916"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

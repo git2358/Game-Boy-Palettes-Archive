@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dmggold",
+        "name": "DMG-GOLD",
+        "palette": [
+          "#A1B560",
+          "#7B8A49",
+          "#4B552D",
+          "#1C1F10"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dragonballorange",
+        "name": "Dragon Ball Orange",
+        "palette": [
+          "#F0831D",
+          "#B76416",
+          "#703D0D",
+          "#2A1705"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

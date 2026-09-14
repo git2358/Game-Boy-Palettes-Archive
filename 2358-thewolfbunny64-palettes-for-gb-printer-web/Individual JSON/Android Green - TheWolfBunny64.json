@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "androidgreen",
+        "name": "Android Green",
+        "palette": [
+          "#3DDC84",
+          "#2EA864",
+          "#1C673E",
+          "#0A2617"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

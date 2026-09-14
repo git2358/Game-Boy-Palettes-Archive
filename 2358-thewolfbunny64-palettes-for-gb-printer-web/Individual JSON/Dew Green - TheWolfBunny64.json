@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dewgreen",
+        "name": "Dew Green",
+        "palette": [
+          "#97D700",
+          "#73A400",
+          "#476500",
+          "#1A2500"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

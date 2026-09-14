@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "7elevencolorcombo",
+        "name": "7-Eleven Color Combo",
+        "palette": [
+          "#FF6C00",
+          "#EB0F2A",
+          "#147350",
+          "#062218"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

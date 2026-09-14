@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "gamegrumporange",
+        "name": "Game Grump Orange",
+        "palette": [
+          "#E9762F",
+          "#B25A23",
+          "#6D3716",
+          "#291408"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

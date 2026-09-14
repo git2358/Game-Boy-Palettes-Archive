@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dmgswitch",
+        "name": "DMG-SWITCH",
+        "palette": [
+          "#8CAD28",
+          "#6C9421",
+          "#426B29",
+          "#214231"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

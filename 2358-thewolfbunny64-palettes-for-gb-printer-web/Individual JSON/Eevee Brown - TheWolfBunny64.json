@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "eeveebrown",
+        "name": "Eevee Brown",
+        "palette": [
+          "#C88D32",
+          "#986B26",
+          "#5E4217",
+          "#231808"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

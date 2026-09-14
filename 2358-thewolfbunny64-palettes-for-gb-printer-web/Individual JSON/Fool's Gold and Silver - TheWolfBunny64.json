@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "foolsgoldandsilver",
+        "name": "Fool's Gold and Silver",
+        "palette": [
+          "#C5C66D",
+          "#97A1B0",
+          "#585E67",
+          "#232529"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

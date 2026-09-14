@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "aquaticiro",
+        "name": "Aquatic Iro",
+        "palette": [
+          "#A0D8EF",
+          "#2CA9E1",
+          "#3E62AD",
+          "#192F60"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

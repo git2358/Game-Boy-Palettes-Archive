@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "3dsvirtualconsolever",
+        "name": "3DS Virtual Console Ver.",
+        "palette": [
+          "#CECEAD",
+          "#A5A58C",
+          "#6B6B52",
+          "#292918"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

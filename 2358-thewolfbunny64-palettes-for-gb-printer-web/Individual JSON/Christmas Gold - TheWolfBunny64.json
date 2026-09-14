@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "christmasgold",
+        "name": "Christmas Gold",
+        "palette": [
+          "#C0A94B",
+          "#928139",
+          "#5A4F23",
+          "#211D0D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bubblesblue",
+        "name": "Bubbles Blue",
+        "palette": [
+          "#88D0F0",
+          "#679FB7",
+          "#406170",
+          "#18242A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

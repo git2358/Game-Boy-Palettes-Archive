@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "barbiepink",
+        "name": "Barbie Pink",
+        "palette": [
+          "#E94397",
+          "#B23373",
+          "#6D1F47",
+          "#290B1A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

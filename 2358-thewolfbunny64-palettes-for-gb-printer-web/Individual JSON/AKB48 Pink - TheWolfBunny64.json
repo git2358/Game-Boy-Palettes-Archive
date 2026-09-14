@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "akb48pink",
+        "name": "AKB48 Pink",
+        "palette": [
+          "#F676A6",
+          "#BC5A7E",
+          "#73374E",
+          "#2B141D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bobblunblue",
+        "name": "Bobblun Blue",
+        "palette": [
+          "#1FD1FD",
+          "#179FC1",
+          "#0E6277",
+          "#05242C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

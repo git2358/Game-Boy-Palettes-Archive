@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "gameawardscyan",
+        "name": "Game Awards Cyan",
+        "palette": [
+          "#49E8D9",
+          "#37B1A5",
+          "#226D66",
+          "#0C2826"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

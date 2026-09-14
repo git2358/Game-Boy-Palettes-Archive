@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bubblungreen",
+        "name": "Bubblun Green",
+        "palette": [
+          "#6ADC31",
+          "#51A825",
+          "#316717",
+          "#122608"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

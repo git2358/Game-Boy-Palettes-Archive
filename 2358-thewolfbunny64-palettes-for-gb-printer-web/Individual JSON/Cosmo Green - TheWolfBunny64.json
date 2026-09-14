@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "cosmogreen",
+        "name": "Cosmo Green",
+        "palette": [
+          "#4EBD59",
+          "#3B9044",
+          "#245829",
+          "#0D210F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

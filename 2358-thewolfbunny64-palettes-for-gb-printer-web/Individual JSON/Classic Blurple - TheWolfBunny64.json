@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "classicblurple",
+        "name": "Classic Blurple",
+        "palette": [
+          "#7289DA",
+          "#5B6DAE",
+          "#38446D",
+          "#222941"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

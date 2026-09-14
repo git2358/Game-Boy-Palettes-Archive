@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "gamatever",
+        "name": "Gamate Ver.",
+        "palette": [
+          "#6BA64A",
+          "#437A63",
+          "#255955",
+          "#12424C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "angryvolcanover",
+        "name": "Angry Volcano Ver.",
+        "palette": [
+          "#F8B800",
+          "#F83800",
+          "#A81000",
+          "#1C0000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

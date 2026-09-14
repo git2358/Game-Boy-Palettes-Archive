@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "cherryblossompink",
+        "name": "Cherry Blossom Pink",
+        "palette": [
+          "#F07EB0",
+          "#B76086",
+          "#703B52",
+          "#2A161F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

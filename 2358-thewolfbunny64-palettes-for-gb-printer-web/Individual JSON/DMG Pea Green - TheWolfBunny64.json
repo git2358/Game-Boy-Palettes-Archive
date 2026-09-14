@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dmgpeagreen",
+        "name": "DMG Pea Green",
+        "palette": [
+          "#D7E894",
+          "#AEC440",
+          "#527F39",
+          "#204631"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

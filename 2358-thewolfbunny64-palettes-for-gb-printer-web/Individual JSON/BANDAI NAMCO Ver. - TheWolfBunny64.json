@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bandainamcover",
+        "name": "BANDAI NAMCO Ver.",
+        "palette": [
+          "#FFBF00",
+          "#FF5C00",
+          "#E60000",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

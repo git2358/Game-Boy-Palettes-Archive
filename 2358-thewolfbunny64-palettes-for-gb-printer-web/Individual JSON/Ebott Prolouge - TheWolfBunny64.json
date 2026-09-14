@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "ebottprolouge",
+        "name": "Ebott Prolouge",
+        "palette": [
+          "#C08226",
+          "#854A1D",
+          "#4A290B",
+          "#2C1708"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

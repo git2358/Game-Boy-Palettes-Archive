@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "765productionver",
+        "name": "765 Production Ver.",
+        "palette": [
+          "#BBC4E4",
+          "#959CB6",
+          "#5D6272",
+          "#383A44"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "1stvisionpastel",
+        "name": "1st Vision Pastel",
+        "palette": [
+          "#EA7CB1",
+          "#7FAF5A",
+          "#385EAD",
+          "#101C33"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

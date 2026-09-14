@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "joyconmariored",
+        "name": "(Joy-Con) Mario Red",
+        "palette": [
+          "#E10F00",
+          "#B40C00",
+          "#700700",
+          "#430400"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

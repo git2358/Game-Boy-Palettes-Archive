@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "drpepperred",
+        "name": "Dr Pepper Red",
+        "palette": [
+          "#8A2231",
+          "#691A25",
+          "#401017",
+          "#180608"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

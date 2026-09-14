@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dreamlandgbver",
+        "name": "Dream Land GB Ver.",
+        "palette": [
+          "#F6FF70",
+          "#B9D03A",
+          "#788B1D",
+          "#48530E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

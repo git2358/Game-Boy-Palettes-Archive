@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bandainamcotricolor",
+        "name": "Bandai Namco Tricolor",
+        "palette": [
+          "#F6B700",
+          "#DF4F61",
+          "#0069B1",
+          "#001F35"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

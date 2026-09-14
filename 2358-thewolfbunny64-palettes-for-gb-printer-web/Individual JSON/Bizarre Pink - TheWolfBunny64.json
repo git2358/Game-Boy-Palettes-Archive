@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bizarrepink",
+        "name": "Bizarre Pink",
+        "palette": [
+          "#EB008B",
+          "#B3006A",
+          "#6E0041",
+          "#290018"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bedrockcavemanvision",
+        "name": "Bedrock Caveman Vision",
+        "palette": [
+          "#FF7F00",
+          "#009EB8",
+          "#005C6C",
+          "#00252B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

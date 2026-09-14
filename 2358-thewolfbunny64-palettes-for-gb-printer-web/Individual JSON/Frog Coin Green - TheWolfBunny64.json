@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "frogcoingreen",
+        "name": "Frog Coin Green",
+        "palette": [
+          "#FFF7DE",
+          "#00EF00",
+          "#398400",
+          "#003900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

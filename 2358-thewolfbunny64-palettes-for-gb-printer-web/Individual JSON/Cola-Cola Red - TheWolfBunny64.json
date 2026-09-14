@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "colacolared",
+        "name": "Cola-Cola Red",
+        "palette": [
+          "#F40009",
+          "#BA0006",
+          "#720004",
+          "#2B0001"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

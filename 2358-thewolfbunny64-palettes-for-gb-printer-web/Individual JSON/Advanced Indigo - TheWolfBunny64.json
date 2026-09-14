@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "advancedindigo",
+        "name": "Advanced Indigo",
+        "palette": [
+          "#796ABA",
+          "#5C518E",
+          "#383157",
+          "#151220"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "beijingblue",
+        "name": "Beijing Blue",
+        "palette": [
+          "#3AADDD",
+          "#2C84A9",
+          "#1B5168",
+          "#0A1E27"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "3dsvirtualconsolegreen",
+        "name": "3DS Virtual Console Green",
+        "palette": [
+          "#BDFF21",
+          "#9CEF29",
+          "#5A8C42",
+          "#4A4A4A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

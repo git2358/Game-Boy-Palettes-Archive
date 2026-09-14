@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dkbarrelbrown",
+        "name": "DK Barrel Brown",
+        "palette": [
+          "#C3742F",
+          "#955823",
+          "#5B3616",
+          "#221408"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "famicomdiskyellow",
+        "name": "Famicom Disk Yellow",
+        "palette": [
+          "#F3C200",
+          "#B99400",
+          "#725B00",
+          "#2A2200"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

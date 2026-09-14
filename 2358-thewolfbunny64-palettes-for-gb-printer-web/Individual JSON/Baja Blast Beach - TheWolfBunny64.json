@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bajablastbeach",
+        "name": "Baja Blast Beach",
+        "palette": [
+          "#DBE441",
+          "#83CCC5",
+          "#4E7A76",
+          "#273D3B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

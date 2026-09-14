@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "animateblue",
+        "name": "animate blue",
+        "palette": [
+          "#385EAA",
+          "#2A4782",
+          "#1A2C50",
+          "#09101D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

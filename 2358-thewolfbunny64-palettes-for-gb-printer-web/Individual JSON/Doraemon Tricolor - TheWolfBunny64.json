@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "doraemontricolor",
+        "name": "Doraemon Tricolor",
+        "palette": [
+          "#FFE800",
+          "#00A8F4",
+          "#E60000",
+          "#450000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

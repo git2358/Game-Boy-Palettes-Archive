@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "disneydreamblue",
+        "name": "Disney Dream Blue",
+        "palette": [
+          "#1786EB",
+          "#1166B3",
+          "#0A3F6E",
+          "#041729"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

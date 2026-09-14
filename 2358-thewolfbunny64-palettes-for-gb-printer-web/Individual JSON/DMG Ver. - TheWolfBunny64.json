@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dmgver",
+        "name": "DMG Ver.",
+        "palette": [
+          "#7F860F",
+          "#577C44",
+          "#365D48",
+          "#2A453B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "chaosemeraldgreen",
+        "name": "Chaos Emerald Green",
+        "palette": [
+          "#6CD800",
+          "#52A500",
+          "#326500",
+          "#132600"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

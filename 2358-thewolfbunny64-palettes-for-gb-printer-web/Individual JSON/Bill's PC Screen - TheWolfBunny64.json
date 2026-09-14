@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "billspcscreen",
+        "name": "Bill's PC Screen",
+        "palette": [
+          "#F87800",
+          "#B86000",
+          "#783800",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

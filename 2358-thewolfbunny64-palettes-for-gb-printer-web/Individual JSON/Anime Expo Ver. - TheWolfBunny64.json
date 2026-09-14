@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "animeexpover",
+        "name": "Anime Expo Ver.",
+        "palette": [
+          "#E5EAEB",
+          "#9BA3A6",
+          "#656E72",
+          "#242A2D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

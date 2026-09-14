@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "cheetoorange",
+        "name": "Cheeto Orange",
+        "palette": [
+          "#E57600",
+          "#AF5A00",
+          "#6B3700",
+          "#281400"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

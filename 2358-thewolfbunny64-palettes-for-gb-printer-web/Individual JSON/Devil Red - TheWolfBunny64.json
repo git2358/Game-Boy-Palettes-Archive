@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "devilred",
+        "name": "Devil Red",
+        "palette": [
+          "#D0011B",
+          "#9F0014",
+          "#61000C",
+          "#240004"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

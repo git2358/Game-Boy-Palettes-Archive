@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dominosblue",
+        "name": "Domino's Blue",
+        "palette": [
+          "#007BAD",
+          "#005E84",
+          "#003951",
+          "#00151E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "digivicever",
+        "name": "Digivice Ver.",
+        "palette": [
+          "#8C8C73",
+          "#6B6B57",
+          "#414136",
+          "#181814"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

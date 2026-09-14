@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "championstunic",
+        "name": "Champion's Tunic",
+        "palette": [
+          "#E2DCB1",
+          "#009EDD",
+          "#875B40",
+          "#281B13"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "aegischerry",
+        "name": "Aegis Cherry",
+        "palette": [
+          "#DD3B64",
+          "#A92D4C",
+          "#681B2F",
+          "#270A11"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

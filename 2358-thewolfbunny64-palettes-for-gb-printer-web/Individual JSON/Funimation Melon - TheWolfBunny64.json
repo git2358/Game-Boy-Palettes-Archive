@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "funimationmelon",
+        "name": "Funimation Melon",
+        "palette": [
+          "#96FF00",
+          "#FF149F",
+          "#5B0BB5",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

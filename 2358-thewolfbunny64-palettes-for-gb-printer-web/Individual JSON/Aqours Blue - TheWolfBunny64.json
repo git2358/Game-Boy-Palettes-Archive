@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "aqoursblue",
+        "name": "Aqours Blue",
+        "palette": [
+          "#00A0E9",
+          "#0080BA",
+          "#005074",
+          "#003045"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

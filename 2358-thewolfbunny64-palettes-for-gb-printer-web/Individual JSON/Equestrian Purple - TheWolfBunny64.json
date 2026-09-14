@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "equestrianpurple",
+        "name": "Equestrian Purple",
+        "palette": [
+          "#A672B0",
+          "#7E5786",
+          "#4E3552",
+          "#1D141F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

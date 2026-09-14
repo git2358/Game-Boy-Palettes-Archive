@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "eva01",
+        "name": "EVA-01",
+        "palette": [
+          "#54CF54",
+          "#F99B22",
+          "#765898",
+          "#303345"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

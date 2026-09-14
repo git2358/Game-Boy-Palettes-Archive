@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bluebomberazure",
+        "name": "Blue Bomber Azure",
+        "palette": [
+          "#43BEFF",
+          "#3391C3",
+          "#1F5978",
+          "#0B212D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

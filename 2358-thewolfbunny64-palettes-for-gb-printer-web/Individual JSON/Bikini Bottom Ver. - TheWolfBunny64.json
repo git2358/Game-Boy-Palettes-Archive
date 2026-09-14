@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "bikinibottomver",
+        "name": "Bikini Bottom Ver.",
+        "palette": [
+          "#F8F880",
+          "#48F8E0",
+          "#2098F0",
+          "#606000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "ancienthisuianbrown",
+        "name": "Ancient Hisuian Brown",
+        "palette": [
+          "#B39F90",
+          "#88796E",
+          "#544A43",
+          "#1F1C19"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

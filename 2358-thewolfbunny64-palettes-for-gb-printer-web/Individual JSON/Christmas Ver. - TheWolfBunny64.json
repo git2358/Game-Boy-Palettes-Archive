@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "christmasver",
+        "name": "Christmas Ver.",
+        "palette": [
+          "#CBB96A",
+          "#20A465",
+          "#A03232",
+          "#300F0F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "765propink",
+        "name": "765PRO Pink",
+        "palette": [
+          "#F34F6D",
+          "#B93C53",
+          "#722533",
+          "#2A0D13"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

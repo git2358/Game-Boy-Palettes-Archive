@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "absorbentandyellow",
+        "name": "Absorbent and Yellow",
+        "palette": [
+          "#FFF752",
+          "#AEC600",
+          "#667400",
+          "#282E00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

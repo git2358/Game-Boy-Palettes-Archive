@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "brilliantdiamondblue",
+        "name": "Brilliant Diamond Blue",
+        "palette": [
+          "#7FBBE1",
+          "#618FAC",
+          "#3B5869",
+          "#162127"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

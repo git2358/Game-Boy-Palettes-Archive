@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dkarcadeblue",
+        "name": "DK Arcade Blue",
+        "palette": [
+          "#47A2DE",
+          "#367BA9",
+          "#214C68",
+          "#0C1C27"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

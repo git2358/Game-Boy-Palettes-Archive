@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "crunchyrollorange",
+        "name": "Crunchyroll Orange",
+        "palette": [
+          "#F47522",
+          "#C35D1B",
+          "#7A3A11",
+          "#49230A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

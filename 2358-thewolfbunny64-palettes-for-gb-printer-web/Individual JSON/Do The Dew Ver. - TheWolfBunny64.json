@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "dothedewver",
+        "name": "Do The Dew Ver.",
+        "palette": [
+          "#FFFFFF",
+          "#A1D23F",
+          "#D82A34",
+          "#29673C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

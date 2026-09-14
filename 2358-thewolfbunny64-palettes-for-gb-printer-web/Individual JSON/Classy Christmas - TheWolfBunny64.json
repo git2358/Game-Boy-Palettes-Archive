@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "classychristmas",
+        "name": "Classy Christmas",
+        "palette": [
+          "#E8E7DF",
+          "#8BAB95",
+          "#9E5C5E",
+          "#534D57"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

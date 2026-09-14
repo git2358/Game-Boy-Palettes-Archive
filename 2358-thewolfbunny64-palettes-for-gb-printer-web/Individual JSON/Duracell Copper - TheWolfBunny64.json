@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "duracellcopper",
+        "name": "Duracell Copper",
+        "palette": [
+          "#C8895D",
+          "#986847",
+          "#5E402B",
+          "#191A1C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

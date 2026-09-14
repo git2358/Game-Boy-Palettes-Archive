@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "cinderellablue",
+        "name": "CINDERELLA Blue",
+        "palette": [
+          "#2681C8",
+          "#1D6298",
+          "#113C5E",
+          "#061623"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

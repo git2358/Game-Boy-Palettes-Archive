@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "demonsgold",
+        "name": "Demon's Gold",
+        "palette": [
+          "#BAAF56",
+          "#8E8541",
+          "#575228",
+          "#201E0F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

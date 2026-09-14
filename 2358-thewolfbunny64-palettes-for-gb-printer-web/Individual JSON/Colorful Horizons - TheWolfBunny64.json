@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "colorfulhorizons",
+        "name": "Colorful Horizons",
+        "palette": [
+          "#F6CF72",
+          "#60BDC7",
+          "#D15252",
+          "#373939"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}
