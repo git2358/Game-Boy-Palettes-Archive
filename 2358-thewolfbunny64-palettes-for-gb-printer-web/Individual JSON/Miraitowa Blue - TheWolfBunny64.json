@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "miraitowablue",
+        "name": "Miraitowa Blue",
+        "palette": [
+          "#25BDEF",
+          "#1C90B6",
+          "#115870",
+          "#06212A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

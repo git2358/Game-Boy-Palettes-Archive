@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "olympicsilver",
+        "name": "Olympic Silver",
+        "palette": [
+          "#9EA59C",
+          "#787E77",
+          "#4A4D49",
+          "#1B1D1B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

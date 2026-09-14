@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "irishgreen",
+        "name": "Irish Green",
+        "palette": [
+          "#45BE76",
+          "#34915A",
+          "#205937",
+          "#0C2114"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

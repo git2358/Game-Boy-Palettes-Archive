@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "kentuckyfriedred",
+        "name": "Kentucky Fried Red",
+        "palette": [
+          "#AB182F",
+          "#821223",
+          "#500B16",
+          "#1E0408"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

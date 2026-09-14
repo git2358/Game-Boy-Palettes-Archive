@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "leprechaungreen",
+        "name": "Leprechaun Green",
+        "palette": [
+          "#378661",
+          "#2A664A",
+          "#193F2D",
+          "#091711"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

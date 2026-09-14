@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "olympicbronze",
+        "name": "Olympic Bronze",
+        "palette": [
+          "#CD8152",
+          "#9C623E",
+          "#603C26",
+          "#24160E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

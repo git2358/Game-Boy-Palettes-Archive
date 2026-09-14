@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "goldentrophy",
+        "name": "Golden Trophy",
+        "palette": [
+          "#E8D018",
+          "#B19F12",
+          "#6D610B",
+          "#282404"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

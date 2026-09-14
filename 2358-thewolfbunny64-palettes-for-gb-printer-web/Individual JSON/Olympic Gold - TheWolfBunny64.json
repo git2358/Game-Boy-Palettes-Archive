@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "olympicgold",
+        "name": "Olympic Gold",
+        "palette": [
+          "#D5B624",
+          "#A28B1B",
+          "#645510",
+          "#252006"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

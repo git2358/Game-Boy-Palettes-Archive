@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "ninjaturtlegreen",
+        "name": "Ninja Turtle Green",
+        "palette": [
+          "#86BC25",
+          "#668F1C",
+          "#3F5811",
+          "#172106"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

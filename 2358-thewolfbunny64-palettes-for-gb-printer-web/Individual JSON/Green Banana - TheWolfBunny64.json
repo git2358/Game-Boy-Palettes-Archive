@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "greenbanana",
+        "name": "Green Banana",
+        "palette": [
+          "#63DF08",
+          "#4A9E00",
+          "#396939",
+          "#214900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

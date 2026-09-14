@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "halloweenver",
+        "name": "Halloween Ver.",
+        "palette": [
+          "#FFCC00",
+          "#F68C00",
+          "#9540A5",
+          "#2C1331"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

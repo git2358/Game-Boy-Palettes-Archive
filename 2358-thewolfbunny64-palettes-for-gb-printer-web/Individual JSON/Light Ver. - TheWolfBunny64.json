@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "lightver",
+        "name": "Light Ver.",
+        "palette": [
+          "#00B581",
+          "#009A71",
+          "#00694A",
+          "#004F3B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "gamecubeglimmer",
+        "name": "GameCube Glimmer",
+        "palette": [
+          "#B6BED3",
+          "#11A396",
+          "#CF4151",
+          "#3E1318"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

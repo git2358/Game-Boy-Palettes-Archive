@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "nintendoswitchlitever",
+        "name": "Nintendo Switch Lite Ver.",
+        "palette": [
+          "#EFBE2D",
+          "#00B2B3",
+          "#646464",
+          "#3C3C3C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

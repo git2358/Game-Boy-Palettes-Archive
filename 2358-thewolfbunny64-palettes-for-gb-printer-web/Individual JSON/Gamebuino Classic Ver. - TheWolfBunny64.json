@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "gamebuinoclassicver",
+        "name": "Gamebuino Classic Ver.",
+        "palette": [
+          "#81A17E",
+          "#627B60",
+          "#3C4B3B",
+          "#161C16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "limemidori",
+        "name": "Lime Midori",
+        "palette": [
+          "#E0EBAF",
+          "#AACF53",
+          "#7B8D42",
+          "#475950"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

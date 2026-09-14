@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "grinchygreen",
+        "name": "Grinchy Green",
+        "palette": [
+          "#B7BE1C",
+          "#8B9115",
+          "#56590D",
+          "#202104"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

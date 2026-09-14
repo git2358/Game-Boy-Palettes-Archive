@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "phantomred",
+        "name": "Phantom Red",
+        "palette": [
+          "#FD2639",
+          "#C11D2B",
+          "#77111A",
+          "#2C060A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "garrysblue",
+        "name": "Garry's Blue",
+        "palette": [
+          "#0082FF",
+          "#0063C3",
+          "#003D78",
+          "#00162D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

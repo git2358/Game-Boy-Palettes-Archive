@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "millionyellow",
+        "name": "MILLION Yellow!",
+        "palette": [
+          "#FFC30B",
+          "#C39508",
+          "#785B05",
+          "#2D2201"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

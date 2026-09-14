@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "neonpink",
+        "name": "Neon Pink",
+        "palette": [
+          "#FF3278",
+          "#CC2860",
+          "#7F193C",
+          "#4C0F24"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

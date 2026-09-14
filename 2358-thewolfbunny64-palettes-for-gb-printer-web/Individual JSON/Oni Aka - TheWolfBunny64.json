@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "oniaka",
+        "name": "Oni Aka",
+        "palette": [
+          "#EC6D71",
+          "#D9333F",
+          "#A22041",
+          "#640125"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

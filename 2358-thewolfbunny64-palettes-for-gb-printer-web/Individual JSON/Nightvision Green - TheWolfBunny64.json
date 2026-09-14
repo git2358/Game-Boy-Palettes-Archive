@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "nightvisiongreen",
+        "name": "Nightvision Green",
+        "palette": [
+          "#122108",
+          "#305916",
+          "#4E9223",
+          "#66BF2F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

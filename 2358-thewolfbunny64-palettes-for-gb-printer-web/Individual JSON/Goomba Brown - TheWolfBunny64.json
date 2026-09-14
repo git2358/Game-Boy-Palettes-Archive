@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "goombabrown",
+        "name": "Goomba Brown",
+        "palette": [
+          "#AA593B",
+          "#82442D",
+          "#50291B",
+          "#1D0F0A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

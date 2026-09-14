@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "kakarotorange",
+        "name": "Kakarot Orange",
+        "palette": [
+          "#E7612C",
+          "#B04A21",
+          "#6C2D14",
+          "#281107"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

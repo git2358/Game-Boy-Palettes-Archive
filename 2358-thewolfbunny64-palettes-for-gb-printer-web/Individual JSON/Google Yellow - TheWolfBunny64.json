@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "googleyellow",
+        "name": "Google Yellow",
+        "palette": [
+          "#FBBC05",
+          "#BF8F03",
+          "#765802",
+          "#2C2100"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

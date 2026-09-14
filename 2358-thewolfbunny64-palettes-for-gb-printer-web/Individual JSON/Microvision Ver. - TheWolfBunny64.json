@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "microvisionver",
+        "name": "Microvision Ver.",
+        "palette": [
+          "#A0A0A0",
+          "#787878",
+          "#505050",
+          "#303030"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

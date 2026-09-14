@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "gamekingver",
+        "name": "GameKing Ver.",
+        "palette": [
+          "#8CCE94",
+          "#6B9C63",
+          "#506541",
+          "#184221"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "hogwartsgoldius",
+        "name": "Hogwarts Goldius",
+        "palette": [
+          "#B6A571",
+          "#8B7E56",
+          "#554D35",
+          "#201D13"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

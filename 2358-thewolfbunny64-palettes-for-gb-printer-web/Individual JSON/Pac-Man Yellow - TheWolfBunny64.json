@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pacmanyellow",
+        "name": "Pac-Man Yellow",
+        "palette": [
+          "#FFE300",
+          "#C3AD00",
+          "#786A00",
+          "#2D2800"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

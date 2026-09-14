@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "nhksilvergray",
+        "name": "NHK Silver Gray",
+        "palette": [
+          "#808080",
+          "#616161",
+          "#3C3C3C",
+          "#161616"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "nickorange",
+        "name": "Nick Orange",
+        "palette": [
+          "#FF6700",
+          "#CC5200",
+          "#7F3300",
+          "#4C1E00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

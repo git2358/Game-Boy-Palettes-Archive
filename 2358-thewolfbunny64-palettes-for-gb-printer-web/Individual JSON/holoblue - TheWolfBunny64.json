@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "holoblue",
+        "name": "holoblue",
+        "palette": [
+          "#B0EDFA",
+          "#49C4F2",
+          "#3368D3",
+          "#063F5C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

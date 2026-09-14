@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "mikublue",
+        "name": "Miku Blue",
+        "palette": [
+          "#11ADD5",
+          "#0D84A2",
+          "#085164",
+          "#031E25"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

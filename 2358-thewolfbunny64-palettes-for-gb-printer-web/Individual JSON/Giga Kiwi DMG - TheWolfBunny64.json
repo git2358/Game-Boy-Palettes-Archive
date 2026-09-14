@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "gigakiwidmg",
+        "name": "Giga Kiwi DMG",
+        "palette": [
+          "#D0E040",
+          "#A0A830",
+          "#607028",
+          "#384828"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

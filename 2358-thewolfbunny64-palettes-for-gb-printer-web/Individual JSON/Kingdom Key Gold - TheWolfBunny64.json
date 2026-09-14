@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "kingdomkeygold",
+        "name": "Kingdom Key Gold",
+        "palette": [
+          "#CAAD32",
+          "#9A8426",
+          "#5F5117",
+          "#231E08"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

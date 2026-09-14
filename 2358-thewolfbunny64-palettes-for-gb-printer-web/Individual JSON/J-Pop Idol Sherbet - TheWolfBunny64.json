@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "jpopidolsherbet",
+        "name": "J-Pop Idol Sherbet",
+        "palette": [
+          "#F19DB5",
+          "#5BBEE5",
+          "#812990",
+          "#260C2B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

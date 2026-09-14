@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "maniaplusgreen",
+        "name": "Mania Plus Green",
+        "palette": [
+          "#79C14E",
+          "#5C933B",
+          "#385A24",
+          "#15220D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

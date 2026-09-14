@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "inklingtricolor",
+        "name": "Inkling Tricolor",
+        "palette": [
+          "#EAFF3D",
+          "#FF505E",
+          "#603BFF",
+          "#1C114C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

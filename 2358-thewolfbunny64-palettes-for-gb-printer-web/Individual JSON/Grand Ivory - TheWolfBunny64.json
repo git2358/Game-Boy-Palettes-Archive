@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "grandivory",
+        "name": "Grand Ivory",
+        "palette": [
+          "#D9D6BE",
+          "#A5A391",
+          "#666459",
+          "#262521"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

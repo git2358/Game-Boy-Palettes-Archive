@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "greenawakening",
+        "name": "Green Awakening",
+        "palette": [
+          "#F1FFDD",
+          "#98DB75",
+          "#367058",
+          "#000B16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

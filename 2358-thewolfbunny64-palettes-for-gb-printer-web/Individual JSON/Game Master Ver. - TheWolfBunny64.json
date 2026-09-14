@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "gamemasterver",
+        "name": "Game Master Ver.",
+        "palette": [
+          "#829FA6",
+          "#63797E",
+          "#3D4A4E",
+          "#161C1D"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "hokageorange",
+        "name": "Hokage Orange",
+        "palette": [
+          "#EA8352",
+          "#B2643E",
+          "#6E3D26",
+          "#29170E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

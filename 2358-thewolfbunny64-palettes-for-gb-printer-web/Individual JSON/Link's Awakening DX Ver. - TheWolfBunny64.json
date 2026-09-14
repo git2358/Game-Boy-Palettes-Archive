@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "linksawakeningdxver",
+        "name": "Link's Awakening DX Ver.",
+        "palette": [
+          "#F8F8B0",
+          "#78C078",
+          "#688840",
+          "#583820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

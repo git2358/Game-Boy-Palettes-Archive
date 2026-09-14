@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "googlegreen",
+        "name": "Google Green",
+        "palette": [
+          "#34A853",
+          "#27803F",
+          "#184F27",
+          "#091D0E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

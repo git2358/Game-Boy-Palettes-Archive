@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "lcdclockgreen",
+        "name": "LCD Clock Green",
+        "palette": [
+          "#50B580",
+          "#3D8A61",
+          "#25553C",
+          "#0E1F16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

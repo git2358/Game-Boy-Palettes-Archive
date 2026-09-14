@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "idolworldtricolor",
+        "name": "IDOL WORLD TRICOLOR!!!",
+        "palette": [
+          "#FFC30B",
+          "#F34F6D",
+          "#2681C8",
+          "#0B263C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pepsivision",
+        "name": "Pepsi Vision",
+        "palette": [
+          "#FFFFFF",
+          "#FF1400",
+          "#1414C8",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "goldenkiiro",
+        "name": "Golden Kiiro",
+        "palette": [
+          "#F8E58C",
+          "#DCCB18",
+          "#A69425",
+          "#6A5D21"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

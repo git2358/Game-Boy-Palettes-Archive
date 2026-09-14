@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "liellapurple",
+        "name": "Liella Purple!",
+        "palette": [
+          "#A5469B",
+          "#7E3576",
+          "#4D2048",
+          "#1D0C1B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

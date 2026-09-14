@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "investigationyellow",
+        "name": "Investigation Yellow",
+        "palette": [
+          "#FFF919",
+          "#C3BE13",
+          "#78750B",
+          "#2D2B04"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

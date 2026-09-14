@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "patrickstarpink",
+        "name": "Patrick Star Pink",
+        "palette": [
+          "#FF808B",
+          "#CC666F",
+          "#7F4045",
+          "#4C2629"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "garfieldvision",
+        "name": "Garfield Vision",
+        "palette": [
+          "#F5EA8B",
+          "#E59436",
+          "#964220",
+          "#2D1309"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

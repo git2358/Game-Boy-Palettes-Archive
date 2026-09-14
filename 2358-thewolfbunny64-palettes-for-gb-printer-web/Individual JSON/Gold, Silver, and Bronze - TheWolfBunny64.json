@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "goldsilverandbronze",
+        "name": "Gold, Silver, and Bronze",
+        "palette": [
+          "#BEB049",
+          "#86949A",
+          "#996843",
+          "#2D1F14"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

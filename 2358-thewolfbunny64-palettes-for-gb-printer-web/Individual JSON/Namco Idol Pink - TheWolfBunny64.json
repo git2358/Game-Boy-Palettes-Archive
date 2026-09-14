@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "namcoidolpink",
+        "name": "Namco Idol Pink",
+        "palette": [
+          "#FF74B8",
+          "#C3588C",
+          "#783656",
+          "#2D1420"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

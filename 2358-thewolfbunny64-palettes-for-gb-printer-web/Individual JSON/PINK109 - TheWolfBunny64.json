@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pink109",
+        "name": "PINK109",
+        "palette": [
+          "#FD87B2",
+          "#C16788",
+          "#773F53",
+          "#2C171F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

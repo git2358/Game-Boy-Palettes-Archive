@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pocketswitch",
+        "name": "POCKET SWITCH",
+        "palette": [
+          "#B5C69C",
+          "#8D9C7B",
+          "#637251",
+          "#303820"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "millionlivegold",
+        "name": "MILLION LIVE GOLD!",
+        "palette": [
+          "#CDB261",
+          "#9C884A",
+          "#60532D",
+          "#241F11"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

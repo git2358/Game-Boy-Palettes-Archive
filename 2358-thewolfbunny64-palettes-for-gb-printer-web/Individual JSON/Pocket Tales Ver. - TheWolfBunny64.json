@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pockettalesver",
+        "name": "Pocket Tales Ver.",
+        "palette": [
+          "#D0D860",
+          "#88A000",
+          "#385000",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

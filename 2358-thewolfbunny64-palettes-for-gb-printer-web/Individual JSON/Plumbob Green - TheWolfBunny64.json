@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "plumbobgreen",
+        "name": "Plumbob Green",
+        "palette": [
+          "#5EEA03",
+          "#47B202",
+          "#2C6E01",
+          "#102900"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

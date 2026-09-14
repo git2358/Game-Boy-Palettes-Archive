@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pocketver",
+        "name": "Pocket Ver.",
+        "palette": [
+          "#C4CFA1",
+          "#8B956D",
+          "#4D533C",
+          "#1F1F1F"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

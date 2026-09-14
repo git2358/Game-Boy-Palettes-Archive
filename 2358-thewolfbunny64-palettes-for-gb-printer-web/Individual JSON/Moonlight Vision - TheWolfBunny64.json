@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "moonlightvision",
+        "name": "Moonlight Vision",
+        "palette": [
+          "#F8D868",
+          "#3890E8",
+          "#305078",
+          "#101010"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "musepink",
+        "name": "Muse Pink",
+        "palette": [
+          "#E4007F",
+          "#B60065",
+          "#72003F",
+          "#440026"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "neonyellow",
+        "name": "Neon Yellow",
+        "palette": [
+          "#E6FF00",
+          "#B8CC00",
+          "#737F00",
+          "#454C00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

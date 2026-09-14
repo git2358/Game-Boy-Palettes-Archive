@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "odysseygold",
+        "name": "Odyssey Gold",
+        "palette": [
+          "#C2A000",
+          "#947A00",
+          "#5B4B00",
+          "#221C00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

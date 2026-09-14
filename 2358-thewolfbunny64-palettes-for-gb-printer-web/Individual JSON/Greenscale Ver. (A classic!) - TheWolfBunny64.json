@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "greenscaleveraclassic",
+        "name": "Greenscale Ver. (A classic!)",
+        "palette": [
+          "#9CBE0C",
+          "#6E870A",
+          "#2C6234",
+          "#0C360C"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

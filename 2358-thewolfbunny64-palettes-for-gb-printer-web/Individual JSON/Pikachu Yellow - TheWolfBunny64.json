@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pikachuyellow",
+        "name": "Pikachu Yellow",
+        "palette": [
+          "#FFDC00",
+          "#C3A800",
+          "#786700",
+          "#2D2600"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "legendarysupersaiyan",
+        "name": "Legendary Super Saiyan",
+        "palette": [
+          "#A6DA5B",
+          "#7EA645",
+          "#4E662A",
+          "#1D2610"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

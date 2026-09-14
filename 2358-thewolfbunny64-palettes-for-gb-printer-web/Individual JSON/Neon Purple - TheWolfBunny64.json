@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "neonpurple",
+        "name": "Neon Purple",
+        "palette": [
+          "#B400E6",
+          "#8900AF",
+          "#54006C",
+          "#1F0028"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

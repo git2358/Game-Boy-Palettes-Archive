@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "islandgreen",
+        "name": "Island Green",
+        "palette": [
+          "#009B7E",
+          "#007660",
+          "#00483B",
+          "#001B16"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

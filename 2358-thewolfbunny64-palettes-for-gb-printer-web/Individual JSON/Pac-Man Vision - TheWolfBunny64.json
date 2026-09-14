@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pacmanvision",
+        "name": "Pac-Man Vision",
+        "palette": [
+          "#FFFF00",
+          "#FFB897",
+          "#3732FF",
+          "#000000"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

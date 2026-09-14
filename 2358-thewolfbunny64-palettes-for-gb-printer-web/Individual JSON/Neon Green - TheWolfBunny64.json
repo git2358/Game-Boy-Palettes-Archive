@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "neongreen",
+        "name": "Neon Green",
+        "palette": [
+          "#1EDC00",
+          "#18B000",
+          "#0F6E00",
+          "#094200"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

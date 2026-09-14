@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "parisgold",
+        "name": "Paris Gold",
+        "palette": [
+          "#D7C378",
+          "#A4955B",
+          "#655B38",
+          "#252215"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

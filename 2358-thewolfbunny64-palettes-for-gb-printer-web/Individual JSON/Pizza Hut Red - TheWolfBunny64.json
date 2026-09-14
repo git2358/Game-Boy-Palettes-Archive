@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pizzahutred",
+        "name": "Pizza Hut Red",
+        "palette": [
+          "#E3383E",
+          "#AD2A2F",
+          "#6A1A1D",
+          "#28090A"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

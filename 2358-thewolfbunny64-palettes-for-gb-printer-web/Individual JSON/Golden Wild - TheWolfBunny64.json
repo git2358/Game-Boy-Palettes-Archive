@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "goldenwild",
+        "name": "Golden Wild",
+        "palette": [
+          "#B99F65",
+          "#947F50",
+          "#5C4F32",
+          "#372F1E"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

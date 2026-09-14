@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "lawsonblue",
+        "name": "LAWSON BLUE",
+        "palette": [
+          "#0068B7",
+          "#004F8B",
+          "#003056",
+          "#001220"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

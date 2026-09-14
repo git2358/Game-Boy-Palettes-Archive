@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "megamanvver",
+        "name": "Mega Man V Ver.",
+        "palette": [
+          "#D0D0D0",
+          "#70A0E0",
+          "#406890",
+          "#082030"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

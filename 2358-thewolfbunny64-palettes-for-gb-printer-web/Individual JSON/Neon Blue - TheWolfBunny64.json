@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "neonblue",
+        "name": "Neon Blue",
+        "palette": [
+          "#0AB9E6",
+          "#0894B8",
+          "#055C73",
+          "#033745"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

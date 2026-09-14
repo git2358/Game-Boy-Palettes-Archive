@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "odysseyboy",
+        "name": "Odyssey Boy",
+        "palette": [
+          "#ACBE8C",
+          "#7E8E67",
+          "#505445",
+          "#222421"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "googleblue",
+        "name": "Google Blue",
+        "palette": [
+          "#4285F4",
+          "#3265BA",
+          "#1F3E72",
+          "#0B172B"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

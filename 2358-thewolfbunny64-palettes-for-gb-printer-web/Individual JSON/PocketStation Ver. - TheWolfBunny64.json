@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "pocketstationver",
+        "name": "PocketStation Ver.",
+        "palette": [
+          "#969687",
+          "#727267",
+          "#46463F",
+          "#1A1A17"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

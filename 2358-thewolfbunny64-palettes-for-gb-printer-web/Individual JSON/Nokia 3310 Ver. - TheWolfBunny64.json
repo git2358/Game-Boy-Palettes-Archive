@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "nokia3310ver",
+        "name": "Nokia 3310 Ver.",
+        "palette": [
+          "#73A684",
+          "#577E64",
+          "#364E3E",
+          "#141D17"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}

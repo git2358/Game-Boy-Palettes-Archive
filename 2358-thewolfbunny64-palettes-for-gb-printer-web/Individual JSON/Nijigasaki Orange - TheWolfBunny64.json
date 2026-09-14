@@ -1,0 +1,18 @@
+{
+  "state": {
+    "palettes": [
+      {
+        "shortName": "nijigasakiorange",
+        "name": "Nijigasaki Orange",
+        "palette": [
+          "#F39800",
+          "#B97400",
+          "#724700",
+          "#2A1A00"
+        ],
+        "origin": "TheWolfBunny64",
+        "isPredefined": false
+      }
+    ]
+  }
+}
