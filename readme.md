@@ -10,7 +10,7 @@ This repository preserves palette collections that may no longer be available fr
 
 ### TheWolfBunny64 — Game Boy Palettes
 
-Original source: **[thewolfbunny64 - game boy palettes](https://www.deviantart.com/thewolfbunny64/gallery/69987002/game-boy-palettes)**
+Original source: **[thewolfbunny64 - game boy palettes](https://www.deviantart.com/thewolfbunny64/gallery/69987002/game-boy-palettes)** - 404
 
 The original DeviantArt gallery is no longer available, so this collection has been archived here.
 
