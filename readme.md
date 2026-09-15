@@ -20,7 +20,7 @@ The original DeviantArt gallery is no longer available, so this collection has b
 
 #### Archived Images
 
-**[Browse / Download the Archived Images](https://github.com/git2358/Game-Boy-Palettes-Archive/tree/main/thewolfbunny64%20-%20game%20boy%20palettes)**
+**[Browse / Download the Archived Images](https://github.com/git2358/Game-Boy-Palettes-Archive/tree/main/thewolfbunny64/)**
 
 #### Ready-to-Use Palette Files
 
